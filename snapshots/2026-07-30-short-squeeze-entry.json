@@ -1,0 +1,80 @@
+{
+ "time": "10:50 ET",
+ "rows": [
+  {
+   "ticker": "APLD",
+   "company": "Applied Digital Corp",
+   "price": 28.03
+  },
+  {
+   "ticker": "BTDR",
+   "company": "Bitdeer Technologies Group",
+   "price": 10.66
+  },
+  {
+   "ticker": "CLSK",
+   "company": "Cleanspark Inc",
+   "price": 14.45
+  },
+  {
+   "ticker": "CORZ",
+   "company": "Core Scientific Inc",
+   "price": 22.16
+  },
+  {
+   "ticker": "DCX",
+   "company": "Digital Currency X Technology Inc",
+   "price": 1.24
+  },
+  {
+   "ticker": "FMC",
+   "company": "FMC Corp",
+   "price": 11.44
+  },
+  {
+   "ticker": "GCTK",
+   "company": "GlucoTrack Inc",
+   "price": 0.36
+  },
+  {
+   "ticker": "IREN",
+   "company": "IREN Ltd",
+   "price": 37.25
+  },
+  {
+   "ticker": "NBIS",
+   "company": "Nebius Group NV",
+   "price": 193.91
+  },
+  {
+   "ticker": "NUWE",
+   "company": "Nuwellis Inc",
+   "price": 4.09
+  },
+  {
+   "ticker": "OWL",
+   "company": "Blue Owl Capital Inc",
+   "price": 9.95
+  },
+  {
+   "ticker": "SEI",
+   "company": "Solaris Energy Infrastructure Inc",
+   "price": 51.49
+  },
+  {
+   "ticker": "TE",
+   "company": "T1 Energy Inc",
+   "price": 4.33
+  },
+  {
+   "ticker": "WULF",
+   "company": "TeraWulf Inc",
+   "price": 17.88
+  },
+  {
+   "ticker": "XRX",
+   "company": "Xerox Holdings Corp",
+   "price": 3.7
+  }
+ ]
+}

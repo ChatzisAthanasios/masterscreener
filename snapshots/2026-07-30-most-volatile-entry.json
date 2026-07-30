@@ -1,0 +1,105 @@
+{
+ "time": "10:52 ET",
+ "rows": [
+  {
+   "ticker": "AAL",
+   "company": "American Airlines Group Inc",
+   "price": 15.16
+  },
+  {
+   "ticker": "AAOG",
+   "company": "Leverage Shares 2X Long AAOI Daily ETF",
+   "price": 2.11
+  },
+  {
+   "ticker": "AAOI",
+   "company": "Applied Optoelectronics Inc",
+   "price": 89.83
+  },
+  {
+   "ticker": "AAOX",
+   "company": "Tradr 2X Long AAOI Daily ETF",
+   "price": 9.5
+  },
+  {
+   "ticker": "ABCL",
+   "company": "AbCellera Biologics Inc",
+   "price": 5.45
+  },
+  {
+   "ticker": "ACHR",
+   "company": "Archer Aviation Inc",
+   "price": 4.65
+  },
+  {
+   "ticker": "ACI",
+   "company": "Albertsons Companies Inc",
+   "price": 11.67
+  },
+  {
+   "ticker": "ACN",
+   "company": "Accenture plc",
+   "price": 160.36
+  },
+  {
+   "ticker": "ADBE",
+   "company": "Adobe Inc",
+   "price": 242.8
+  },
+  {
+   "ticker": "ADBG",
+   "company": "Leverage Shares 2X Long ADBE Daily ETF",
+   "price": 4.02
+  },
+  {
+   "ticker": "ADPT",
+   "company": "Adaptive Biotechnologies Corp",
+   "price": 23.34
+  },
+  {
+   "ticker": "AGIO",
+   "company": "Agios Pharmaceuticals Inc",
+   "price": 31.77
+  },
+  {
+   "ticker": "ALAB",
+   "company": "Astera Labs Inc",
+   "price": 289.85
+  },
+  {
+   "ticker": "ALGM",
+   "company": "Allegro Microsystems Inc",
+   "price": 40.93
+  },
+  {
+   "ticker": "ALLO",
+   "company": "Allogene Therapeutics Inc",
+   "price": 1.9
+  },
+  {
+   "ticker": "ALM",
+   "company": "Almonty Industries Inc",
+   "price": 11.32
+  },
+  {
+   "ticker": "ALOY",
+   "company": "REalloys Inc",
+   "price": 8.33
+  },
+  {
+   "ticker": "AMAT",
+   "company": "Applied Materials Inc",
+   "price": 507.39
+  },
+  {
+   "ticker": "AMC",
+   "company": "AMC Entertainment Holdings Inc",
+   "price": 2.69
+  },
+  {
+   "ticker": "AMD",
+   "company": "Advanced Micro Devices Inc",
+   "price": 497.63
+  }
+ ]
+}

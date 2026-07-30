@@ -1,0 +1,25 @@
+{
+ "time": "10:48 ET",
+ "rows": [
+  {
+   "ticker": "CAPR",
+   "company": "Capricor Therapeutics Inc",
+   "price": 3.12
+  },
+  {
+   "ticker": "CISS",
+   "company": "C3is Inc",
+   "price": 0.13
+  },
+  {
+   "ticker": "INO",
+   "company": "Inovio Pharmaceuticals Inc",
+   "price": 0.59
+  },
+  {
+   "ticker": "RITR",
+   "company": "Reitar Logtech Holdings Ltd",
+   "price": 0.07
+  }
+ ]
+}

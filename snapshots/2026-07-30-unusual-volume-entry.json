@@ -1,0 +1,105 @@
+{
+ "time": "10:40 ET",
+ "rows": [
+  {
+   "ticker": "ADAM",
+   "company": "Adamas Trust Inc",
+   "price": 9.03
+  },
+  {
+   "ticker": "AETH",
+   "company": "Bitwise Trendwise Ether and Treasuries Rotation Strategy ETF",
+   "price": 31.17
+  },
+  {
+   "ticker": "ALRS",
+   "company": "Alerus Financial Corp",
+   "price": 33.37
+  },
+  {
+   "ticker": "APAC",
+   "company": "StoneBridge Acquisition II Corp",
+   "price": 10.19
+  },
+  {
+   "ticker": "ATAI",
+   "company": "AtaiBeckley Inc",
+   "price": 7.2
+  },
+  {
+   "ticker": "AUGT",
+   "company": "AllianzIM U.S. Equity Buffer10 Aug ETF",
+   "price": 38.43
+  },
+  {
+   "ticker": "AUGW",
+   "company": "AllianzIM U.S. Equity Buffer20 Aug ETF",
+   "price": 34.27
+  },
+  {
+   "ticker": "AVDV",
+   "company": "Avantis International Small Cap Value ETF",
+   "price": 104.23
+  },
+  {
+   "ticker": "AVNV",
+   "company": "Avantis All International Markets Value ETF",
+   "price": 82.96
+  },
+  {
+   "ticker": "AVY",
+   "company": "Avery Dennison Corp",
+   "price": 179.45
+  },
+  {
+   "ticker": "BAUG",
+   "company": "Innovator U.S. Equity Buffer ETF - August",
+   "price": 54.12
+  },
+  {
+   "ticker": "BAX",
+   "company": "Baxter International Inc",
+   "price": 28.94
+  },
+  {
+   "ticker": "BETE",
+   "company": "ProShares Bitcoin and Ether Equal Weight ETF",
+   "price": 30.82
+  },
+  {
+   "ticker": "BFJL",
+   "company": "FT Vest Bitcoin Strategy Floor15 ETF July",
+   "price": 17.42
+  },
+  {
+   "ticker": "BFOC",
+   "company": "FT Vest Bitcoin Strategy Floor15 ETF - October",
+   "price": 17.04
+  },
+  {
+   "ticker": "BGFI",
+   "company": "BNY Mellon Global Fixed Income ETF",
+   "price": 25.22
+  },
+  {
+   "ticker": "BHC",
+   "company": "Bausch Health Companies Inc",
+   "price": 5.94
+  },
+  {
+   "ticker": "BMSI",
+   "company": "BNY Mellon Multi-Sector Income ETF",
+   "price": 25.1
+  },
+  {
+   "ticker": "BOEG",
+   "company": "Leverage Shares 2X Long BA Daily ETF",
+   "price": 13.55
+  },
+  {
+   "ticker": "BOOM",
+   "company": "DMC Global Inc",
+   "price": 6.56
+  }
+ ]
+}

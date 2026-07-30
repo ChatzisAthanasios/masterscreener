@@ -1,0 +1,105 @@
+{
+ "time": "10:43 ET",
+ "rows": [
+  {
+   "ticker": "AAOG",
+   "company": "Leverage Shares 2X Long AAOI Daily ETF",
+   "price": 2.11
+  },
+  {
+   "ticker": "ARAY",
+   "company": "Accuray Inc",
+   "price": 0.24
+  },
+  {
+   "ticker": "AXTX",
+   "company": "Tradr 2X Long AXTI Daily ETF",
+   "price": 4.33
+  },
+  {
+   "ticker": "CAPR",
+   "company": "Capricor Therapeutics Inc",
+   "price": 3.09
+  },
+  {
+   "ticker": "CBRG",
+   "company": "Leverage Shares 2X Long CBRS Daily ETF",
+   "price": 4.07
+  },
+  {
+   "ticker": "CISS",
+   "company": "C3is Inc",
+   "price": 0.13
+  },
+  {
+   "ticker": "CRWU",
+   "company": "T-REX 2X Long CRWV Daily Target ETF",
+   "price": 2.98
+  },
+  {
+   "ticker": "CYCU",
+   "company": "Cycurion Inc",
+   "price": 0.48
+  },
+  {
+   "ticker": "DAMD",
+   "company": "Defiance Daily Target 2X Short AMD ETF",
+   "price": 1.54
+  },
+  {
+   "ticker": "DCX",
+   "company": "Digital Currency X Technology Inc",
+   "price": 1.25
+  },
+  {
+   "ticker": "DGNX",
+   "company": "Diginex Ltd",
+   "price": 1.78
+  },
+  {
+   "ticker": "GCTK",
+   "company": "GlucoTrack Inc",
+   "price": 0.36
+  },
+  {
+   "ticker": "GMEX",
+   "company": "GMEX Robotics Corp",
+   "price": 1.5
+  },
+  {
+   "ticker": "GVH",
+   "company": "Globavend Holdings Ltd",
+   "price": 1.12
+  },
+  {
+   "ticker": "INO",
+   "company": "Inovio Pharmaceuticals Inc",
+   "price": 0.59
+  },
+  {
+   "ticker": "INVZ",
+   "company": "Innoviz Technologies Ltd",
+   "price": 0.43
+  },
+  {
+   "ticker": "LBGJ",
+   "company": "Li Bang International Corp Inc",
+   "price": 0.02
+  },
+  {
+   "ticker": "LUNG",
+   "company": "Pulmonx Corp",
+   "price": 1.73
+  },
+  {
+   "ticker": "MDXG",
+   "company": "Mimedx Group Inc",
+   "price": 3.95
+  },
+  {
+   "ticker": "MGRX",
+   "company": "Mangoceuticals Inc",
+   "price": 0.38
+  }
+ ]
+}

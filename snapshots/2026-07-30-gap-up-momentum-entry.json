@@ -1,0 +1,105 @@
+{
+ "time": "10:31 ET",
+ "rows": [
+  {
+   "ticker": "AIBZ",
+   "company": "Bitzero Holdings Inc",
+   "price": 6.1
+  },
+  {
+   "ticker": "BOOM",
+   "company": "DMC Global Inc",
+   "price": 6.51
+  },
+  {
+   "ticker": "BRUN",
+   "company": "Boost Run Inc",
+   "price": 18.85
+  },
+  {
+   "ticker": "CMCO",
+   "company": "Columbus Mckinnon Corp",
+   "price": 20.3
+  },
+  {
+   "ticker": "DFNS",
+   "company": "T3 Defense Inc",
+   "price": 77.35
+  },
+  {
+   "ticker": "EME",
+   "company": "Emcor Group Inc",
+   "price": 804.0
+  },
+  {
+   "ticker": "FIX",
+   "company": "Comfort Systems USA Inc",
+   "price": 1695.69
+  },
+  {
+   "ticker": "HII",
+   "company": "Huntington Ingalls Industries Inc",
+   "price": 302.31
+  },
+  {
+   "ticker": "HIPO",
+   "company": "Hippo Holdings Inc",
+   "price": 33.01
+  },
+  {
+   "ticker": "IDCC",
+   "company": "Interdigital Inc",
+   "price": 292.81
+  },
+  {
+   "ticker": "MCS",
+   "company": "Marcus Corp",
+   "price": 27.52
+  },
+  {
+   "ticker": "MKTX",
+   "company": "MarketAxess Holdings Inc",
+   "price": 163.04
+  },
+  {
+   "ticker": "MYRG",
+   "company": "MYR Group Inc",
+   "price": 344.61
+  },
+  {
+   "ticker": "NEU",
+   "company": "NewMarket Corp",
+   "price": 858.04
+  },
+  {
+   "ticker": "NKLR",
+   "company": "Terra Innovatum Global NV",
+   "price": 5.47
+  },
+  {
+   "ticker": "NVMI",
+   "company": "Nova Ltd",
+   "price": 398.62
+  },
+  {
+   "ticker": "PI",
+   "company": "Impinj Inc",
+   "price": 142.09
+  },
+  {
+   "ticker": "PN",
+   "company": "PN Smart Energy Ltd",
+   "price": 16.46
+  },
+  {
+   "ticker": "QMCO",
+   "company": "Quantum Corp",
+   "price": 10.97
+  },
+  {
+   "ticker": "QUAD",
+   "company": "Quad/Graphics Inc",
+   "price": 9.54
+  }
+ ]
+}

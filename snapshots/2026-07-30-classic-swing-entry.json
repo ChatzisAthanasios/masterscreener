@@ -1,0 +1,105 @@
+{
+ "time": "10:34 ET",
+ "rows": [
+  {
+   "ticker": "AACB",
+   "company": "Artius II Acquisition Inc",
+   "price": 10.55
+  },
+  {
+   "ticker": "AAMI",
+   "company": "Acadian Asset Management Inc",
+   "price": 85.33
+  },
+  {
+   "ticker": "AAPB",
+   "company": "GraniteShares 2x Long AAPL Daily ETF",
+   "price": 43.83
+  },
+  {
+   "ticker": "AAPL",
+   "company": "Apple Inc",
+   "price": 330.8
+  },
+  {
+   "ticker": "AAPU",
+   "company": "Direxion Daily AAPL Bull 2X ETF",
+   "price": 45.08
+  },
+  {
+   "ticker": "AAPX",
+   "company": "T-Rex 2X Long Apple Daily Target ETF",
+   "price": 40.67
+  },
+  {
+   "ticker": "AAPY",
+   "company": "Kurv Yield Premium Strategy Apple ETF",
+   "price": 27.92
+  },
+  {
+   "ticker": "ABEQ",
+   "company": "Absolute Select Value ETF",
+   "price": 38.42
+  },
+  {
+   "ticker": "ACVA",
+   "company": "ACV Auctions Inc",
+   "price": 7.6
+  },
+  {
+   "ticker": "ACWV",
+   "company": "iShares MSCI Global Min Vol Factor ETF",
+   "price": 124.22
+  },
+  {
+   "ticker": "ADAC",
+   "company": "American Drive Acquisition Co",
+   "price": 10.08
+  },
+  {
+   "ticker": "ALIS",
+   "company": "Calisa Acquisition Corp",
+   "price": 10.17
+  },
+  {
+   "ticker": "ALUB",
+   "company": "Alussa Energy Acquisition Corp II",
+   "price": 10.1
+  },
+  {
+   "ticker": "AMAL",
+   "company": "Amalgamated Financial Corp",
+   "price": 49.31
+  },
+  {
+   "ticker": "AMBP",
+   "company": "Ardagh Metal Packaging SA",
+   "price": 4.85
+  },
+  {
+   "ticker": "AMG",
+   "company": "Affiliated Managers Group Inc",
+   "price": 368.23
+  },
+  {
+   "ticker": "AMGN",
+   "company": "AMGEN Inc",
+   "price": 379.04
+  },
+  {
+   "ticker": "ANIK",
+   "company": "Anika Therapeutics Inc",
+   "price": 17.44
+  },
+  {
+   "ticker": "ANSC",
+   "company": "Agriculture and Natural Solutions Acquisition Corp",
+   "price": 11.46
+  },
+  {
+   "ticker": "ANTX",
+   "company": "AN2 Therapeutics Inc",
+   "price": 5.22
+  }
+ ]
+}

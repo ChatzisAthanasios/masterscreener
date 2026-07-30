@@ -1,0 +1,105 @@
+{
+ "time": "10:46 ET",
+ "rows": [
+  {
+   "ticker": "ACV",
+   "company": "Virtus Diversified Income and Convertible Fund",
+   "price": 26.7
+  },
+  {
+   "ticker": "ADXN",
+   "company": "Addex Therapeutics Ltd ADR",
+   "price": 5.75
+  },
+  {
+   "ticker": "APAC",
+   "company": "StoneBridge Acquisition II Corp",
+   "price": 10.19
+  },
+  {
+   "ticker": "APUS",
+   "company": "Apimeds Pharmaceuticals US Inc",
+   "price": 6.88
+  },
+  {
+   "ticker": "BOOM",
+   "company": "DMC Global Inc",
+   "price": 6.56
+  },
+  {
+   "ticker": "BSVN",
+   "company": "Bank7 Corp",
+   "price": 50.6
+  },
+  {
+   "ticker": "CCEL",
+   "company": "Cryo-Cell International Inc",
+   "price": 3.6
+  },
+  {
+   "ticker": "CEPO",
+   "company": "Cantor Equity Partners I Inc",
+   "price": 10.67
+  },
+  {
+   "ticker": "CGO",
+   "company": "Calamos Global Total Return Fund",
+   "price": 12.58
+  },
+  {
+   "ticker": "CYCU",
+   "company": "Cycurion Inc",
+   "price": 0.48
+  },
+  {
+   "ticker": "CZFS",
+   "company": "Citizens Financial Services Inc",
+   "price": 78.75
+  },
+  {
+   "ticker": "DCX",
+   "company": "Digital Currency X Technology Inc",
+   "price": 1.26
+  },
+  {
+   "ticker": "DFNS",
+   "company": "T3 Defense Inc",
+   "price": 82.01
+  },
+  {
+   "ticker": "DGNX",
+   "company": "Diginex Ltd",
+   "price": 1.78
+  },
+  {
+   "ticker": "DMA",
+   "company": "Destra Multi-Alternative Fund",
+   "price": 7.75
+  },
+  {
+   "ticker": "FIEE",
+   "company": "FiEE Inc",
+   "price": 3.24
+  },
+  {
+   "ticker": "GCTK",
+   "company": "GlucoTrack Inc",
+   "price": 0.36
+  },
+  {
+   "ticker": "GNLN",
+   "company": "Greenlane Holdings Inc",
+   "price": 1.71
+  },
+  {
+   "ticker": "GVH",
+   "company": "Globavend Holdings Ltd",
+   "price": 1.11
+  },
+  {
+   "ticker": "HIFS",
+   "company": "Hingham Institution For Savings",
+   "price": 287.09
+  }
+ ]
+}

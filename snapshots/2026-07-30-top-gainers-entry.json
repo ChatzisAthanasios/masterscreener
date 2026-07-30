@@ -1,0 +1,105 @@
+{
+ "time": "10:37 ET",
+ "rows": [
+  {
+   "ticker": "NUWE",
+   "company": "Nuwellis Inc",
+   "price": 4.1
+  },
+  {
+   "ticker": "NBIL",
+   "company": "GraniteShares 2x Long NBIS Daily ETF",
+   "price": 21.75
+  },
+  {
+   "ticker": "NEBX",
+   "company": "Tradr 2X Long NBIS Daily ETF",
+   "price": 22.45
+  },
+  {
+   "ticker": "NBIG",
+   "company": "Leverage Shares 2X Long NBIS Daily ETF",
+   "price": 15.05
+  },
+  {
+   "ticker": "BEX",
+   "company": "Tradr 2X Long BE Daily ETF",
+   "price": 24.22
+  },
+  {
+   "ticker": "BEG",
+   "company": "Leverage Shares 2x Long BE Daily ETF",
+   "price": 33.88
+  },
+  {
+   "ticker": "PN",
+   "company": "PN Smart Energy Ltd",
+   "price": 16.62
+  },
+  {
+   "ticker": "IREX",
+   "company": "Tradr 2X Long IREN Daily ETF",
+   "price": 12.87
+  },
+  {
+   "ticker": "DFNS",
+   "company": "T3 Defense Inc",
+   "price": 77.39
+  },
+  {
+   "ticker": "IRE",
+   "company": "Defiance Daily Target 2X Long IREN ETF",
+   "price": 9.08
+  },
+  {
+   "ticker": "IREG",
+   "company": "Leverage Shares 2X Long IREN Daily ETF",
+   "price": 7.24
+  },
+  {
+   "ticker": "SNDU",
+   "company": "T-REX 2X Long SNDK Daily Target ETF",
+   "price": 15.76
+  },
+  {
+   "ticker": "STKH",
+   "company": "Steakholder Foods Ltd ADR",
+   "price": 3.96
+  },
+  {
+   "ticker": "SNDG",
+   "company": "Leverage Shares 2X Long SNDK Daily ETF",
+   "price": 6.24
+  },
+  {
+   "ticker": "CWVX",
+   "company": "Tradr 2X Long CRWV Daily ETF",
+   "price": 12.94
+  },
+  {
+   "ticker": "AXTX",
+   "company": "Tradr 2X Long AXTI Daily ETF",
+   "price": 4.37
+  },
+  {
+   "ticker": "SNXX",
+   "company": "Tradr 2X Long SNDK Daily ETF",
+   "price": 10.01
+  },
+  {
+   "ticker": "CRWU",
+   "company": "T-REX 2X Long CRWV Daily Target ETF",
+   "price": 2.97
+  },
+  {
+   "ticker": "CRWG",
+   "company": "Leverage Shares 2X Long CRWV Daily ETF",
+   "price": 15.55
+  },
+  {
+   "ticker": "APLX",
+   "company": "Tradr 2X Long APLD Daily ETF",
+   "price": 10.24
+  }
+ ]
+}
