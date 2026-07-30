@@ -17,7 +17,7 @@
       "name": "Classic Swing Trade",
       "category": "SwingTrading",
       "enabled": true,
-      "url": "https://finviz.com/screener.ashx?v=111&f=ta_pattern_channelup,ta_sma20_pa,ta_sma200_pa,ta_sma50_pa"
+      "url": "https://finviz.com/screener.ashx?v=111&f=ta_pattern_channelup,ta_sma200_pa,ta_sma20_pa,ta_sma50_pa"
     },
     {
       "id": "quality-dividend",
@@ -31,7 +31,7 @@
       "name": "Moving Average Bounce",
       "category": "SwingTrading",
       "enabled": true,
-      "url": "https://finviz.com/screener.ashx?v=111&f=ta_perf_52w50a,ta_sma200_pa,ta_sma200_pa,ta_sma50_pb"
+      "url": "https://finviz.com/screener.ashx?v=111&f=ta_perf_52w50o,ta_sma200_pa,ta_sma50_pb"
     },
     {
       "id": "top-gainers",
@@ -66,7 +66,7 @@
       "name": "Deep Value Screener",
       "category": "Value",
       "enabled": true,
-      "url": "https://finviz.com/screener.ashx?v=111&f=fa_debteq_u0.5,fa_pb_u1,fa_pe_u15,sh_insiderown_pos"
+      "url": "https://finviz.com/screener.ashx?v=111&f=fa_debteq_u0.5,fa_pb_u1,fa_pe_u15,sh_insiderown_o10"
     },
     {
       "id": "magic-formula",
@@ -115,7 +115,7 @@
       "name": "Insider Buying",
       "category": "Value",
       "enabled": true,
-      "url": "https://finviz.com/screener.ashx?v=111&f=sh_insiderown_o10,sh_insidertrans_buy,sh_relvol_o1.5"
+      "url": "https://finviz.com/screener.ashx?v=111&f=sh_insiderown_o10,sh_insidertrans_pos,sh_relvol_o1.5"
     },
     {
       "id": "penny-stock-momentum",
@@ -129,14 +129,14 @@
       "name": "High Momentum Screener",
       "category": "SwingTrading",
       "enabled": true,
-      "url": "https://finviz.com/screener.ashx?v=111&f=ta_perf_4wup,ta_rsi_o60,ta_sma20_pa"
+      "url": "https://finviz.com/screener.ashx?v=111&f=ta_perf_4wup,ta_rsi_ob60,ta_sma20_pa"
     },
     {
       "id": "post-earnings",
       "name": "Post-Earnings Momentum",
       "category": "SwingTrading",
       "enabled": true,
-      "url": "https://finviz.com/screener.ashx?v=111&f=earnings_date_prevweek,sh_relvol_o1.5,ta_gap_u"
+      "url": "https://finviz.com/screener.ashx?v=111&f=earningsdate_prevweek,sh_relvol_o1.5,ta_gap_u"
     },
     {
       "id": "low-float",
@@ -150,7 +150,7 @@
       "name": "IPO Follow-Up",
       "category": "Growth",
       "enabled": true,
-      "url": "https://finviz.com/screener.ashx?v=111&f=fa_sales5years_pos,ipodate_more6,ta_sma50_pa"
+      "url": "https://finviz.com/screener.ashx?v=111&f=fa_sales5years_pos,ipodate_prev2yrs,ta_sma50_pa"
     },
     {
       "id": "short-squeeze",
@@ -185,7 +185,7 @@
       "name": "Volatility Squeeze",
       "category": "SwingTrading",
       "enabled": true,
-      "url": "https://finviz.com/screener.ashx?v=111&f=ta_pattern_tl"
+      "url": "https://finviz.com/screener.ashx?v=111&f=ta_pattern_wedge"
     },
     {
       "id": "god-like-pullback",
@@ -206,21 +206,21 @@
       "name": "Institutional Heavyweights",
       "category": "Growth",
       "enabled": true,
-      "url": "https://finviz.com/screener.ashx?v=111&f=cap_largeover,sh_instown_o10,ta_perf_52w10a,ta_sma200_pa"
+      "url": "https://finviz.com/screener.ashx?v=111&f=cap_largeover,sh_instown_o10,ta_perf_52w10o,ta_sma200_pa"
     },
     {
       "id": "smooth-momentum",
       "name": "Smooth Momentum",
       "category": "SwingTrading",
       "enabled": true,
-      "url": "https://finviz.com/screener.ashx?v=111&f=ta_perf_26w10a,ta_perf_4w5a,ta_perf_52w20a,ta_sma50_pa"
+      "url": "https://finviz.com/screener.ashx?v=111&f=ta_perf_26w10o,ta_perf_4wup,ta_perf_52w20o,ta_sma50_pa"
     },
     {
       "id": "sector-leaders-recovery",
       "name": "Sector Leaders Recovery",
       "category": "Value",
       "enabled": true,
-      "url": "https://finviz.com/screener.ashx?v=111&f=cap_largeover,sh_insttrans_pos,ta_highlow52w_b0to10h,ta_rsi_o40"
+      "url": "https://finviz.com/screener.ashx?v=111&f=cap_largeover,sh_insttrans_pos,ta_highlow52w_b0to10h,ta_rsi_nos40"
     },
     {
       "id": "high-margin-moat",

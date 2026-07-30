@@ -10,6 +10,8 @@ category the screener belongs to.
 | Path | Purpose |
 |---|---|
 | `screeners.json` | All 40 screeners, all enabled. Set `enabled: false` to drop one. |
+| `validate_filters.py` | Detects Finviz filter codes that have stopped working. |
+| `FILTER-FIXES.md` | Why the current filter codes are what they are; 12 were corrected. |
 | `append_rows.py` | Appends a day's appearances to `data/<id>.csv`, deduped by (date, ticker). |
 | `score_day.py` | Scores one screener-day: entry snapshot vs exit snapshot. |
 | `report.py` | Per-screener leaderboard across all tracked sessions. |
@@ -78,6 +80,16 @@ For each enabled screener that has an entry snapshot for today:
 
 5. Write `logs/<date>.md` with each screener's win rate, average return, best and worst pick.
 6. Run `python report.py` and include the leaderboard in the log.
+
+## Filter health
+
+Finviz silently ignores filter codes it does not recognise instead of erroring, so a broken
+screener looks identical to a working one — it just quietly matches a much wider universe.
+Twelve dud codes were found and fixed on 2026-07-30; see `FILTER-FIXES.md`.
+
+The Monday ENTRY run re-checks this automatically with `python3 validate_filters.py`. If any
+screener is reported `UNFILTERED`, its numbers are not comparable to the others and the code
+needs fixing before its history is trusted.
 
 ## Rules
 
