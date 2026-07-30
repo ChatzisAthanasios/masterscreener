@@ -1,5 +1,14 @@
 """Append a day's screener results to data/<screener-id>.csv.
 
+This file is the APPEARANCE log: which tickers a screener surfaced on each date and
+at what price. It is NOT the performance record.
+
+`change_pct_at_entry` is the stock's move on the day at the moment it was screened.
+For the momentum screens it is the very move that caused the stock to be selected,
+so it must never be read as a return. Profitability lives in perf/ (written by
+score_day.py), which measures entry price against the closing price.
+
+
 Usage:
     python append_rows.py <screener-id> < rows.json
 
@@ -18,7 +27,8 @@ import json
 import os
 import sys
 
-FIELDS = ["date", "ticker", "company", "price", "change_pct", "volume", "notes"]
+FIELDS = ["date", "ticker", "company", "entry_price", "change_pct_at_entry",
+          "volume", "notes"]
 DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
 
 
@@ -58,8 +68,8 @@ def main():
                 "date": date,
                 "ticker": row["ticker"],
                 "company": row.get("company", ""),
-                "price": row.get("price", ""),
-                "change_pct": row.get("change_pct", ""),
+                "entry_price": row.get("price", ""),
+                "change_pct_at_entry": row.get("change_pct", ""),
                 "volume": row.get("volume", ""),
                 "notes": row.get("notes", ""),
             })

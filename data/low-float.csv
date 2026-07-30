@@ -1,4 +1,4 @@
-date,ticker,company,price,change_pct,volume,notes
+date,ticker,company,entry_price,change_pct_at_entry,volume,notes
 2026-07-30,ACV,Virtus Diversified Income and Convertible Fund,26.7,2.48,18421,ETF
 2026-07-30,ADXN,Addex Therapeutics Ltd ADR,5.75,2.68,2380,
 2026-07-30,APAC,StoneBridge Acquisition II Corp,10.19,0.1,50006,

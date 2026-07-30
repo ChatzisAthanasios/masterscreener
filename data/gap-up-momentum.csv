@@ -1,4 +1,4 @@
-date,ticker,company,price,change_pct,volume,notes
+date,ticker,company,entry_price,change_pct_at_entry,volume,notes
 2026-07-30,AIBZ,Bitzero Holdings Inc,6.1,14.45,235315,
 2026-07-30,BOOM,DMC Global Inc,6.51,20.12,536303,
 2026-07-30,BRUN,Boost Run Inc,18.85,20.52,868042,

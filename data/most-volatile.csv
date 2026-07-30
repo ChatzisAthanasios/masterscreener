@@ -1,4 +1,4 @@
-date,ticker,company,price,change_pct,volume,notes
+date,ticker,company,entry_price,change_pct_at_entry,volume,notes
 2026-07-30,AAL,American Airlines Group Inc,15.16,2.19,5687459,
 2026-07-30,AAOG,Leverage Shares 2X Long AAOI Daily ETF,2.11,34.08,1160228,ETF
 2026-07-30,AAOI,Applied Optoelectronics Inc,89.83,17.39,3657661,

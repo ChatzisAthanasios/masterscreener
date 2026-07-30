@@ -22,6 +22,55 @@ category the screener belongs to.
 
 Source of the URLs: `C:/Users/user/strategymasterscreeners/finviz-screeners.txt`
 
+## Which file answers "is this screener profitable?"
+
+Three files, three different questions. Reading the wrong one gives a badly wrong answer.
+
+**`data/<id>.csv` — what the screener surfaced. NOT performance.**
+
+```
+date, ticker, company, entry_price, change_pct_at_entry, volume, notes
+```
+
+One row per ticker per date, accumulating forever. `change_pct_at_entry` is the stock's move
+**on that day at the moment it was screened** — for the momentum screens it is the very move
+that caused the stock to be selected. It is selection context, never a return. A `top-gainers`
+row showing +116% means the stock was already up 116% when it appeared, not that the screener
+made 116%.
+
+**`perf/<id>.csv` — what each pick did afterwards.**
+
+```
+date, screener_id, ticker, company, entry_time, entry_price, exit_time,
+exit_price, return_pct, outcome
+```
+
+One row per pick per date. `return_pct` is entry price to closing price — the actual result.
+`outcome` is win / loss / flat, or `unscored` when the ticker could not be re-quoted.
+
+**`perf/summary.csv` — one row per screener per date. This is the profitability record.**
+
+```
+date, screener_id, n_picks, n_scored, n_unscored, n_wins, n_losses,
+win_rate_pct, avg_return_pct, median_return_pct,
+best_ticker, best_return_pct, worst_ticker, worst_return_pct
+```
+
+Every scored session appends a row and none are ever removed, so this file is the full history.
+Re-scoring a date replaces that date's row rather than duplicating it.
+
+Read it with:
+
+```bash
+python3 report.py              # leaderboard across all dates, grouped by category
+python3 report.py --by-date    # every screener's session-by-session series and running total
+python3 report.py --days 20    # last 20 sessions only
+```
+
+`--by-date` is the one that answers "which screeners are actually profitable" honestly: it
+shows whether a screener is consistently positive or whether one outlier session is carrying
+its average.
+
 ## Where this runs
 
 Both runs execute as **cloud routines** in Anthropic's cloud, not on a local machine. Each run

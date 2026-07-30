@@ -1,4 +1,4 @@
-date,ticker,company,price,change_pct,volume,notes
+date,ticker,company,entry_price,change_pct_at_entry,volume,notes
 2026-07-30,AACB,Artius II Acquisition Inc,10.55,0.19,131,
 2026-07-30,AAMI,Acadian Asset Management Inc,85.33,5.56,86505,
 2026-07-30,AAPB,GraniteShares 2x Long AAPL Daily ETF,43.83,-4.15,61607,ETF

@@ -1,4 +1,4 @@
-date,ticker,company,price,change_pct,volume,notes
+date,ticker,company,entry_price,change_pct_at_entry,volume,notes
 2026-07-30,ADAM,Adamas Trust Inc,9.03,4.45,525097,ETF
 2026-07-30,AETH,Bitwise Trendwise Ether and Treasuries Rotation Strategy ETF,31.17,1.28,415,ETF
 2026-07-30,ALRS,Alerus Financial Corp,33.37,1.26,153810,

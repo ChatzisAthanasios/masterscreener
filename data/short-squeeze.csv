@@ -1,4 +1,4 @@
-date,ticker,company,price,change_pct,volume,notes
+date,ticker,company,entry_price,change_pct_at_entry,volume,notes
 2026-07-30,APLD,Applied Digital Corp,28.03,20.71,11289118,
 2026-07-30,BTDR,Bitdeer Technologies Group,10.66,19.78,5267315,
 2026-07-30,CLSK,Cleanspark Inc,14.45,20.36,11092162,

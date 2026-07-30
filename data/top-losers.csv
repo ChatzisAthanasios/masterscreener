@@ -1,4 +1,4 @@
-date,ticker,company,price,change_pct,volume,notes
+date,ticker,company,entry_price,change_pct_at_entry,volume,notes
 2026-07-30,CAPR,Capricor Therapeutics Inc,3.12,-53.08,12328997,
 2026-07-30,CISS,C3is Inc,0.13,-2.26,66416226,
 2026-07-30,INO,Inovio Pharmaceuticals Inc,0.59,-43.17,18405858,

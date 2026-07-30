@@ -1,4 +1,4 @@
-date,ticker,company,price,change_pct,volume,notes
+date,ticker,company,entry_price,change_pct_at_entry,volume,notes
 2026-07-30,AAOG,Leverage Shares 2X Long AAOI Daily ETF,2.11,34.39,1152214,ETF
 2026-07-30,ARAY,Accuray Inc,0.24,6.02,2063449,
 2026-07-30,AXTX,Tradr 2X Long AXTI Daily ETF,4.33,43.85,4548251,ETF

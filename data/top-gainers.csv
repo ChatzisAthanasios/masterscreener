@@ -1,4 +1,4 @@
-date,ticker,company,price,change_pct,volume,notes
+date,ticker,company,entry_price,change_pct_at_entry,volume,notes
 2026-07-30,NUWE,Nuwellis Inc,4.1,116.93,85162301,
 2026-07-30,NBIL,GraniteShares 2x Long NBIS Daily ETF,21.75,62.9,4969336,ETF
 2026-07-30,NEBX,Tradr 2X Long NBIS Daily ETF,22.45,62.45,4197230,ETF

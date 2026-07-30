@@ -35,6 +35,10 @@ def categories():
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--days", type=int, default=0)
+    ap.add_argument("--by-date", action="store_true",
+                    help="also print each screener's day-by-day return series")
+    ap.add_argument("--screener", default="",
+                    help="with --by-date, restrict to one screener id")
     args = ap.parse_args()
 
     if not os.path.exists(SUMMARY):
@@ -106,6 +110,26 @@ def main():
     print("Ranked within category. Cross-category comparison is misleading: the momentum")
     print("screens re-select their picks daily, the fundamental screens return nearly the")
     print("same names each day, so their return series are not equivalent observations.")
+
+    if args.by_date:
+        print("\n\n=== DAY BY DAY ===")
+        print("Each row is one session: that day's equal-weighted return across the")
+        print("screener's picks, and the running compounded figure.\n")
+        for sid in sorted(by_screener):
+            if args.screener and sid != args.screener:
+                continue
+            days = sorted(by_screener[sid], key=lambda r: r["date"])
+            print("-- {} ({}) --".format(sid, cats.get(sid, "?")))
+            print("  {:<12}{:>7}{:>8}{:>10}{:>11}".format(
+                "DATE", "PICKS", "WIN%", "RETURN%", "CUM%"))
+            cum = 1.0
+            for d in days:
+                ret = float(d["avg_return_pct"])
+                cum *= (1 + ret / 100.0)
+                print("  {:<12}{:>7}{:>8}{:>10.2f}{:>11.2f}".format(
+                    d["date"], d["n_scored"], d["win_rate_pct"],
+                    ret, (cum - 1) * 100))
+            print()
 
     if len(dates) < 20:
         print("\nNote: {} sessions tracked. Treat rankings as provisional - "
