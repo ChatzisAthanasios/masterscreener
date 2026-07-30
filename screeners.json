@@ -1,0 +1,289 @@
+{
+  "_comment": "Registry of Finviz screeners. Set \"enabled\": true for each screener the daily job should track. Source: C:/Users/user/strategymasterscreeners/finviz-screeners.txt",
+  "max_rows_per_screener": 25,
+  "entry_time_et": "09:45 ET",
+  "exit_time_et": "16:05 ET",
+  "_timing_note": "Cron runs in local time (Athens). ET+7 during EU/US summer. The US and EU change clocks on different dates (US DST ends first Sunday of November, EU last Sunday of October), so for the weeks between them the offset is 6 hours and the cron times must be shifted by one hour. Each run re-derives the true ET time and aborts if the market is not in the expected state.",
+  "screeners": [
+    {
+      "id": "gap-up-momentum",
+      "name": "Gap Up Morning Gappers",
+      "category": "DayTrading",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=sh_curvol_o50,sh_float_u50,sh_price_o5,sh_relvol_o2,ta_gap_u4"
+    },
+    {
+      "id": "classic-swing",
+      "name": "Classic Swing Trade",
+      "category": "SwingTrading",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=ta_pattern_channelup,ta_sma20_pa,ta_sma200_pa,ta_sma50_pa"
+    },
+    {
+      "id": "quality-dividend",
+      "name": "Quality Dividend Stocks",
+      "category": "Income",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=fa_div_o3,fa_opermargin_pos,fa_payoutratio_u60,fa_pe_u20"
+    },
+    {
+      "id": "ma-bounce",
+      "name": "Moving Average Bounce",
+      "category": "SwingTrading",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=ta_perf_52w50a,ta_sma200_pa,ta_sma200_pa,ta_sma50_pb"
+    },
+    {
+      "id": "top-gainers",
+      "name": "Top Gainers Research",
+      "category": "DayTrading",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=sh_curvol_o500,sh_price_o2&o=-change"
+    },
+    {
+      "id": "unusual-volume",
+      "name": "Unusual Volume Breakouts",
+      "category": "DayTrading",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=sh_relvol_o3,ta_perf_dup,ta_sma20_pa"
+    },
+    {
+      "id": "pure-breakout",
+      "name": "Pure Breakout Setup",
+      "category": "SwingTrading",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=sh_curvol_o200,ta_highlow52w_nh,ta_perf_dup"
+    },
+    {
+      "id": "canslim-growth",
+      "name": "CANSLIM Growth",
+      "category": "Growth",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=fa_epsqoq_o20,fa_salesqoq_o20,sh_instown_o40,ta_sma50_pa"
+    },
+    {
+      "id": "deep-value",
+      "name": "Deep Value Screener",
+      "category": "Value",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=fa_debteq_u0.5,fa_pb_u1,fa_pe_u15,sh_insiderown_pos"
+    },
+    {
+      "id": "magic-formula",
+      "name": "Magic Formula",
+      "category": "Value",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=cap_midover,fa_pe_u10,fa_roa_o20"
+    },
+    {
+      "id": "low-pe-growth",
+      "name": "Low P/E Growth (GARP)",
+      "category": "Growth",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=fa_estltgrowth_o15,fa_peg_u1,ta_sma200_pa"
+    },
+    {
+      "id": "oversold-bounce",
+      "name": "Oversold Bounce",
+      "category": "SwingTrading",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=cap_midover,ta_perf_1wdown,ta_rsi_os30"
+    },
+    {
+      "id": "dividend-aristocrats",
+      "name": "Dividend Aristocrats",
+      "category": "Income",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=fa_div_o2,fa_roi_pos,idx_sp500"
+    },
+    {
+      "id": "high-earnings-growth",
+      "name": "High Earnings Growth",
+      "category": "Growth",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=fa_epsyoy1_o25,fa_epsyoy_o30,sh_price_o10"
+    },
+    {
+      "id": "revenue-growth",
+      "name": "Revenue Growth Leaders",
+      "category": "Growth",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=fa_ps_u10,fa_sales5years_o25,fa_salesqoq_o30"
+    },
+    {
+      "id": "insider-buying",
+      "name": "Insider Buying",
+      "category": "Value",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=sh_insiderown_o10,sh_insidertrans_buy,sh_relvol_o1.5"
+    },
+    {
+      "id": "penny-stock-momentum",
+      "name": "Penny Stock Momentum",
+      "category": "DayTrading",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=sh_curvol_o1000,sh_price_u5,sh_relvol_o3"
+    },
+    {
+      "id": "high-momentum",
+      "name": "High Momentum Screener",
+      "category": "SwingTrading",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=ta_perf_4wup,ta_rsi_o60,ta_sma20_pa"
+    },
+    {
+      "id": "post-earnings",
+      "name": "Post-Earnings Momentum",
+      "category": "SwingTrading",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=earnings_date_prevweek,sh_relvol_o1.5,ta_gap_u"
+    },
+    {
+      "id": "low-float",
+      "name": "Low Float Runners",
+      "category": "DayTrading",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=sh_float_u20,sh_relvol_o3,ta_perf_dup"
+    },
+    {
+      "id": "ipo-base",
+      "name": "IPO Follow-Up",
+      "category": "Growth",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=fa_sales5years_pos,ipodate_more6,ta_sma50_pa"
+    },
+    {
+      "id": "short-squeeze",
+      "name": "Short Squeeze Candidates",
+      "category": "DayTrading",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=sh_relvol_o2,sh_short_o20,ta_perf_dup"
+    },
+    {
+      "id": "top-losers",
+      "name": "Top Losers / Reversal",
+      "category": "DayTrading",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=sh_curvol_o1000,ta_perf_ddown,ta_rsi_os20"
+    },
+    {
+      "id": "most-volatile",
+      "name": "Most Volatile / Options",
+      "category": "DayTrading",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=sh_curvol_o1000,sh_opt_option,ta_volatility_wo5"
+    },
+    {
+      "id": "golden-cross",
+      "name": "Golden Cross Trend",
+      "category": "SwingTrading",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=sh_price_o10,ta_sma50_cross200a"
+    },
+    {
+      "id": "volatility-squeeze",
+      "name": "Volatility Squeeze",
+      "category": "SwingTrading",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=ta_pattern_tl"
+    },
+    {
+      "id": "god-like-pullback",
+      "name": "God-Like Supply/Demand",
+      "category": "SwingTrading",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=sh_avgvol_o400,sh_opt_option,sh_price_o20,ta_perf_13wup,ta_perf_1wdown"
+    },
+    {
+      "id": "consistent-compounders",
+      "name": "Consistent Compounders",
+      "category": "Growth",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=fa_eps5years_o20,fa_epsqoq_o20,fa_sales5years_o20,fa_salesqoq_o20,sh_curvol_o2000"
+    },
+    {
+      "id": "institutional-leaders",
+      "name": "Institutional Heavyweights",
+      "category": "Growth",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=cap_largeover,sh_instown_o10,ta_perf_52w10a,ta_sma200_pa"
+    },
+    {
+      "id": "smooth-momentum",
+      "name": "Smooth Momentum",
+      "category": "SwingTrading",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=ta_perf_26w10a,ta_perf_4w5a,ta_perf_52w20a,ta_sma50_pa"
+    },
+    {
+      "id": "sector-leaders-recovery",
+      "name": "Sector Leaders Recovery",
+      "category": "Value",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=cap_largeover,sh_insttrans_pos,ta_highlow52w_b0to10h,ta_rsi_o40"
+    },
+    {
+      "id": "high-margin-moat",
+      "name": "High Margin Moat",
+      "category": "Value",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=fa_eps5years_o15,fa_grossmargin_o40,fa_netmargin_o20,fa_roa_o10"
+    },
+    {
+      "id": "cash-rich-small-caps",
+      "name": "Cash-Rich Small Caps",
+      "category": "Value",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=cap_small,fa_curratio_o3,fa_debteq_u0.1,fa_pc_u3"
+    },
+    {
+      "id": "institutional-whale-trail",
+      "name": "Institutional Whale Trail",
+      "category": "SwingTrading",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=sh_avgvol_o1000,sh_instown_o50,sh_insttrans_o5,ta_perf_52wup"
+    },
+    {
+      "id": "resilient-rebounder",
+      "name": "The Resilient Rebounder",
+      "category": "Value",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=fa_curratio_o2,fa_debteq_u0.5,fa_roe_o15,sh_insidertrans_pos,ta_highlow52w_b0to10h,ta_rsi_os40"
+    },
+    {
+      "id": "institutional-shadow",
+      "name": "Institutional Shadow",
+      "category": "SwingTrading",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=sh_curvol_o1000,sh_insidertrans_pos,sh_insttrans_pos,sh_relvol_o2,sh_short_o10,ta_beta_o1"
+    },
+    {
+      "id": "finviz-magic-formula",
+      "name": "Finviz Magic Formula",
+      "category": "Value",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=fa_curratio_o2,fa_debteq_u0.5,fa_fpe_u15,fa_grossmargin_o30,fa_pe_u15,fa_roe_o15"
+    },
+    {
+      "id": "consistent-growth-momentum",
+      "name": "Consistent Growth Momentum",
+      "category": "Growth",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=cap_midover,fa_eps5years_pos,fa_epsqoq_o20,fa_salesqoq_o20,ta_perf_26wup,ta_sma200_pa"
+    },
+    {
+      "id": "stressed-healthy-rebound",
+      "name": "Stressed Healthy Rebound",
+      "category": "Value",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=fa_curratio_o2,fa_debteq_u0.5,fa_netmargin_o10,ta_highlow52w_b0to10h,ta_perf_1wdown,ta_rsi_os40"
+    },
+    {
+      "id": "income-stability",
+      "name": "Safe Income Generator",
+      "category": "Income",
+      "enabled": true,
+      "url": "https://finviz.com/screener.ashx?v=111&f=fa_div_o3,fa_eps5years_pos,fa_payoutratio_u50,fa_roe_o15,ta_perf_52wup,ta_sma50_pa"
+    }
+  ]
+}
