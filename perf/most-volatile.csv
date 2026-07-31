@@ -1,0 +1,21 @@
+date,screener_id,ticker,company,entry_time,entry_price,exit_time,exit_price,return_pct,outcome
+2026-07-30,most-volatile,AAL,American Airlines Group Inc,10:52 ET,15.16,"16:00 ET (retroactive, fetched 2026-07-31)",15.43,1.78,win
+2026-07-30,most-volatile,AAOG,Leverage Shares 2X Long AAOI Daily ETF,10:52 ET,2.11,"16:00 ET (retroactive, fetched 2026-07-31)",2.12,0.47,win
+2026-07-30,most-volatile,AAOI,Applied Optoelectronics Inc,10:52 ET,89.83,"16:00 ET (retroactive, fetched 2026-07-31)",90.11,0.31,win
+2026-07-30,most-volatile,AAOX,Tradr 2X Long AAOI Daily ETF,10:52 ET,9.5,"16:00 ET (retroactive, fetched 2026-07-31)",9.5,0.0,flat
+2026-07-30,most-volatile,ABCL,AbCellera Biologics Inc,10:52 ET,5.45,"16:00 ET (retroactive, fetched 2026-07-31)",5.69,4.4,win
+2026-07-30,most-volatile,ACHR,Archer Aviation Inc,10:52 ET,4.65,"16:00 ET (retroactive, fetched 2026-07-31)",4.74,1.94,win
+2026-07-30,most-volatile,ACI,Albertsons Companies Inc,10:52 ET,11.67,"16:00 ET (retroactive, fetched 2026-07-31)",11.6,-0.6,loss
+2026-07-30,most-volatile,ACN,Accenture plc,10:52 ET,160.36,"16:00 ET (retroactive, fetched 2026-07-31)",163.29,1.83,win
+2026-07-30,most-volatile,ADBE,Adobe Inc,10:52 ET,242.8,"16:00 ET (retroactive, fetched 2026-07-31)",247.9,2.1,win
+2026-07-30,most-volatile,ADBG,Leverage Shares 2X Long ADBE Daily ETF,10:52 ET,4.02,"16:00 ET (retroactive, fetched 2026-07-31)",4.21,4.73,win
+2026-07-30,most-volatile,ADPT,Adaptive Biotechnologies Corp,10:52 ET,23.34,"16:00 ET (retroactive, fetched 2026-07-31)",24.18,3.6,win
+2026-07-30,most-volatile,AGIO,Agios Pharmaceuticals Inc,10:52 ET,31.77,"16:00 ET (retroactive, fetched 2026-07-31)",32.75,3.08,win
+2026-07-30,most-volatile,ALAB,Astera Labs Inc,10:52 ET,289.85,"16:00 ET (retroactive, fetched 2026-07-31)",299.69,3.39,win
+2026-07-30,most-volatile,ALGM,Allegro Microsystems Inc,10:52 ET,40.93,"16:00 ET (retroactive, fetched 2026-07-31)",41.45,1.27,win
+2026-07-30,most-volatile,ALLO,Allogene Therapeutics Inc,10:52 ET,1.9,"16:00 ET (retroactive, fetched 2026-07-31)",1.97,3.68,win
+2026-07-30,most-volatile,ALM,Almonty Industries Inc,10:52 ET,11.32,"16:00 ET (retroactive, fetched 2026-07-31)",11.67,3.09,win
+2026-07-30,most-volatile,ALOY,REalloys Inc,10:52 ET,8.33,"16:00 ET (retroactive, fetched 2026-07-31)",8.82,5.88,win
+2026-07-30,most-volatile,AMAT,Applied Materials Inc,10:52 ET,507.39,"16:00 ET (retroactive, fetched 2026-07-31)",501.77,-1.11,loss
+2026-07-30,most-volatile,AMC,AMC Entertainment Holdings Inc,10:52 ET,2.69,"16:00 ET (retroactive, fetched 2026-07-31)",2.77,2.97,win
+2026-07-30,most-volatile,AMD,Advanced Micro Devices Inc,10:52 ET,497.63,"16:00 ET (retroactive, fetched 2026-07-31)",485.39,-2.46,loss

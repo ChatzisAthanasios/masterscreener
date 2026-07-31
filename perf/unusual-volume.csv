@@ -1,0 +1,21 @@
+date,screener_id,ticker,company,entry_time,entry_price,exit_time,exit_price,return_pct,outcome
+2026-07-30,unusual-volume,ADAM,Adamas Trust Inc,10:40 ET,9.03,"16:00 ET (retroactive, fetched 2026-07-31)",8.94,-1.0,loss
+2026-07-30,unusual-volume,AETH,Bitwise Trendwise Ether and Treasuries Rotation Strategy ETF,10:40 ET,31.17,"16:00 ET (retroactive, fetched 2026-07-31)",31.32,0.48,win
+2026-07-30,unusual-volume,ALRS,Alerus Financial Corp,10:40 ET,33.37,"16:00 ET (retroactive, fetched 2026-07-31)",33.56,0.57,win
+2026-07-30,unusual-volume,APAC,StoneBridge Acquisition II Corp,10:40 ET,10.19,"16:00 ET (retroactive, fetched 2026-07-31)",10.19,0.0,flat
+2026-07-30,unusual-volume,ATAI,AtaiBeckley Inc,10:40 ET,7.2,"16:00 ET (retroactive, fetched 2026-07-31)",7.18,-0.28,loss
+2026-07-30,unusual-volume,AUGT,AllianzIM U.S. Equity Buffer10 Aug ETF,10:40 ET,38.43,"16:00 ET (retroactive, fetched 2026-07-31)",38.46,0.08,win
+2026-07-30,unusual-volume,AUGW,AllianzIM U.S. Equity Buffer20 Aug ETF,10:40 ET,34.27,"16:00 ET (retroactive, fetched 2026-07-31)",34.27,0.0,flat
+2026-07-30,unusual-volume,AVDV,Avantis International Small Cap Value ETF,10:40 ET,104.23,"16:00 ET (retroactive, fetched 2026-07-31)",105.14,0.87,win
+2026-07-30,unusual-volume,AVNV,Avantis All International Markets Value ETF,10:40 ET,82.96,"16:00 ET (retroactive, fetched 2026-07-31)",83.54,0.7,win
+2026-07-30,unusual-volume,AVY,Avery Dennison Corp,10:40 ET,179.45,"16:00 ET (retroactive, fetched 2026-07-31)",174.82,-2.58,loss
+2026-07-30,unusual-volume,BAUG,Innovator U.S. Equity Buffer ETF - August,10:40 ET,54.12,"16:00 ET (retroactive, fetched 2026-07-31)",54.18,0.11,win
+2026-07-30,unusual-volume,BAX,Baxter International Inc,10:40 ET,28.94,"16:00 ET (retroactive, fetched 2026-07-31)",26.75,-7.57,loss
+2026-07-30,unusual-volume,BETE,ProShares Bitcoin and Ether Equal Weight ETF,10:40 ET,30.82,"16:00 ET (retroactive, fetched 2026-07-31)",30.96,0.45,win
+2026-07-30,unusual-volume,BFJL,FT Vest Bitcoin Strategy Floor15 ETF July,10:40 ET,17.42,"16:00 ET (retroactive, fetched 2026-07-31)",17.4,-0.11,loss
+2026-07-30,unusual-volume,BFOC,FT Vest Bitcoin Strategy Floor15 ETF - October,10:40 ET,17.04,"16:00 ET (retroactive, fetched 2026-07-31)",17.04,0.0,flat
+2026-07-30,unusual-volume,BGFI,BNY Mellon Global Fixed Income ETF,10:40 ET,25.22,"16:00 ET (retroactive, fetched 2026-07-31)",25.19,-0.12,loss
+2026-07-30,unusual-volume,BHC,Bausch Health Companies Inc,10:40 ET,5.94,"16:00 ET (retroactive, fetched 2026-07-31)",6.03,1.52,win
+2026-07-30,unusual-volume,BMSI,BNY Mellon Multi-Sector Income ETF,10:40 ET,25.1,"16:00 ET (retroactive, fetched 2026-07-31)",25.14,0.16,win
+2026-07-30,unusual-volume,BOEG,Leverage Shares 2X Long BA Daily ETF,10:40 ET,13.55,"16:00 ET (retroactive, fetched 2026-07-31)",13.76,1.55,win
+2026-07-30,unusual-volume,BOOM,DMC Global Inc,10:40 ET,6.56,"16:00 ET (retroactive, fetched 2026-07-31)",6.26,-4.57,loss

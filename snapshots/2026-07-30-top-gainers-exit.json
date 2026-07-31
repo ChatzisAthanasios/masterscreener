@@ -1,0 +1,85 @@
+{
+ "time": "16:00 ET (retroactive, fetched 2026-07-31)",
+ "rows": [
+  {
+   "ticker": "NUWE",
+   "price": 4.45
+  },
+  {
+   "ticker": "NBIL",
+   "price": 20.47
+  },
+  {
+   "ticker": "NEBX",
+   "price": 21.28
+  },
+  {
+   "ticker": "NBIG",
+   "price": 14.3
+  },
+  {
+   "ticker": "BEX",
+   "price": 23.02
+  },
+  {
+   "ticker": "BEG",
+   "price": 32.24
+  },
+  {
+   "ticker": "PN",
+   "price": 23.67
+  },
+  {
+   "ticker": "IREX",
+   "price": 13.4
+  },
+  {
+   "ticker": "DFNS",
+   "price": 84.98
+  },
+  {
+   "ticker": "IRE",
+   "price": 9.42
+  },
+  {
+   "ticker": "IREG",
+   "price": 7.55
+  },
+  {
+   "ticker": "SNDU",
+   "price": 16.4
+  },
+  {
+   "ticker": "STKH",
+   "price": 2.83
+  },
+  {
+   "ticker": "SNDG",
+   "price": 6.43
+  },
+  {
+   "ticker": "CWVX",
+   "price": 12.71
+  },
+  {
+   "ticker": "AXTX",
+   "price": 4.7
+  },
+  {
+   "ticker": "SNXX",
+   "price": 10.48
+  },
+  {
+   "ticker": "CRWU",
+   "price": 2.94
+  },
+  {
+   "ticker": "CRWG",
+   "price": 15.38
+  },
+  {
+   "ticker": "APLX",
+   "price": 10.2
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+date,screener_id,ticker,company,entry_time,entry_price,exit_time,exit_price,return_pct,outcome
+2026-07-30,short-squeeze,APLD,Applied Digital Corp,10:50 ET,28.03,"16:00 ET (retroactive, fetched 2026-07-31)",27.97,-0.21,loss
+2026-07-30,short-squeeze,BTDR,Bitdeer Technologies Group,10:50 ET,10.66,"16:00 ET (retroactive, fetched 2026-07-31)",11.1,4.13,win
+2026-07-30,short-squeeze,CLSK,Cleanspark Inc,10:50 ET,14.45,"16:00 ET (retroactive, fetched 2026-07-31)",14.54,0.62,win
+2026-07-30,short-squeeze,CORZ,Core Scientific Inc,10:50 ET,22.16,"16:00 ET (retroactive, fetched 2026-07-31)",21.81,-1.58,loss
+2026-07-30,short-squeeze,DCX,Digital Currency X Technology Inc,10:50 ET,1.24,"16:00 ET (retroactive, fetched 2026-07-31)",1.24,0.0,flat
+2026-07-30,short-squeeze,FMC,FMC Corp,10:50 ET,11.44,"16:00 ET (retroactive, fetched 2026-07-31)",11.83,3.41,win
+2026-07-30,short-squeeze,GCTK,GlucoTrack Inc,10:50 ET,0.36,"16:00 ET (retroactive, fetched 2026-07-31)",0.78,116.67,win
+2026-07-30,short-squeeze,IREN,IREN Ltd,10:50 ET,37.25,"16:00 ET (retroactive, fetched 2026-07-31)",38.26,2.71,win
+2026-07-30,short-squeeze,NBIS,Nebius Group NV,10:50 ET,193.91,"16:00 ET (retroactive, fetched 2026-07-31)",188.43,-2.83,loss
+2026-07-30,short-squeeze,NUWE,Nuwellis Inc,10:50 ET,4.09,"16:00 ET (retroactive, fetched 2026-07-31)",4.45,8.8,win
+2026-07-30,short-squeeze,OWL,Blue Owl Capital Inc,10:50 ET,9.95,"16:00 ET (retroactive, fetched 2026-07-31)",10.16,2.11,win
+2026-07-30,short-squeeze,SEI,Solaris Energy Infrastructure Inc,10:50 ET,51.49,"16:00 ET (retroactive, fetched 2026-07-31)",51.28,-0.41,loss
+2026-07-30,short-squeeze,TE,T1 Energy Inc,10:50 ET,4.33,"16:00 ET (retroactive, fetched 2026-07-31)",4.27,-1.39,loss
+2026-07-30,short-squeeze,WULF,TeraWulf Inc,10:50 ET,17.88,"16:00 ET (retroactive, fetched 2026-07-31)",17.82,-0.34,loss
+2026-07-30,short-squeeze,XRX,Xerox Holdings Corp,10:50 ET,3.7,"16:00 ET (retroactive, fetched 2026-07-31)",3.49,-5.68,loss

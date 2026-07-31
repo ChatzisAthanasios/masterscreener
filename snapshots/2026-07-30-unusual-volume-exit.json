@@ -1,0 +1,85 @@
+{
+ "time": "16:00 ET (retroactive, fetched 2026-07-31)",
+ "rows": [
+  {
+   "ticker": "ADAM",
+   "price": 8.94
+  },
+  {
+   "ticker": "AETH",
+   "price": 31.32
+  },
+  {
+   "ticker": "ALRS",
+   "price": 33.56
+  },
+  {
+   "ticker": "APAC",
+   "price": 10.19
+  },
+  {
+   "ticker": "ATAI",
+   "price": 7.18
+  },
+  {
+   "ticker": "AUGT",
+   "price": 38.46
+  },
+  {
+   "ticker": "AUGW",
+   "price": 34.27
+  },
+  {
+   "ticker": "AVDV",
+   "price": 105.14
+  },
+  {
+   "ticker": "AVNV",
+   "price": 83.54
+  },
+  {
+   "ticker": "AVY",
+   "price": 174.82
+  },
+  {
+   "ticker": "BAUG",
+   "price": 54.18
+  },
+  {
+   "ticker": "BAX",
+   "price": 26.75
+  },
+  {
+   "ticker": "BETE",
+   "price": 30.96
+  },
+  {
+   "ticker": "BFJL",
+   "price": 17.4
+  },
+  {
+   "ticker": "BFOC",
+   "price": 17.04
+  },
+  {
+   "ticker": "BGFI",
+   "price": 25.19
+  },
+  {
+   "ticker": "BHC",
+   "price": 6.03
+  },
+  {
+   "ticker": "BMSI",
+   "price": 25.14
+  },
+  {
+   "ticker": "BOEG",
+   "price": 13.76
+  },
+  {
+   "ticker": "BOOM",
+   "price": 6.26
+  }
+ ]
+}

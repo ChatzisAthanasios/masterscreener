@@ -1,0 +1,21 @@
+{
+ "time": "16:00 ET (retroactive, fetched 2026-07-31)",
+ "rows": [
+  {
+   "ticker": "CAPR",
+   "price": 4.19
+  },
+  {
+   "ticker": "CISS",
+   "price": 0.136
+  },
+  {
+   "ticker": "INO",
+   "price": 0.656
+  },
+  {
+   "ticker": "RITR",
+   "price": 0.0625
+  }
+ ]
+}

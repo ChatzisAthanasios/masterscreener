@@ -1,0 +1,85 @@
+{
+ "time": "16:00 ET (retroactive, fetched 2026-07-31)",
+ "rows": [
+  {
+   "ticker": "AAL",
+   "price": 15.43
+  },
+  {
+   "ticker": "AAOG",
+   "price": 2.12
+  },
+  {
+   "ticker": "AAOI",
+   "price": 90.11
+  },
+  {
+   "ticker": "AAOX",
+   "price": 9.5
+  },
+  {
+   "ticker": "ABCL",
+   "price": 5.69
+  },
+  {
+   "ticker": "ACHR",
+   "price": 4.74
+  },
+  {
+   "ticker": "ACI",
+   "price": 11.6
+  },
+  {
+   "ticker": "ACN",
+   "price": 163.29
+  },
+  {
+   "ticker": "ADBE",
+   "price": 247.9
+  },
+  {
+   "ticker": "ADBG",
+   "price": 4.21
+  },
+  {
+   "ticker": "ADPT",
+   "price": 24.18
+  },
+  {
+   "ticker": "AGIO",
+   "price": 32.75
+  },
+  {
+   "ticker": "ALAB",
+   "price": 299.69
+  },
+  {
+   "ticker": "ALGM",
+   "price": 41.45
+  },
+  {
+   "ticker": "ALLO",
+   "price": 1.97
+  },
+  {
+   "ticker": "ALM",
+   "price": 11.67
+  },
+  {
+   "ticker": "ALOY",
+   "price": 8.82
+  },
+  {
+   "ticker": "AMAT",
+   "price": 501.77
+  },
+  {
+   "ticker": "AMC",
+   "price": 2.77
+  },
+  {
+   "ticker": "AMD",
+   "price": 485.39
+  }
+ ]
+}

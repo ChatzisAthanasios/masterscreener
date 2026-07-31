@@ -1,0 +1,65 @@
+{
+ "time": "16:00 ET (retroactive, fetched 2026-07-31)",
+ "rows": [
+  {
+   "ticker": "APLD",
+   "price": 27.97
+  },
+  {
+   "ticker": "BTDR",
+   "price": 11.1
+  },
+  {
+   "ticker": "CLSK",
+   "price": 14.54
+  },
+  {
+   "ticker": "CORZ",
+   "price": 21.81
+  },
+  {
+   "ticker": "DCX",
+   "price": 1.24
+  },
+  {
+   "ticker": "FMC",
+   "price": 11.83
+  },
+  {
+   "ticker": "GCTK",
+   "price": 0.78
+  },
+  {
+   "ticker": "IREN",
+   "price": 38.26
+  },
+  {
+   "ticker": "NBIS",
+   "price": 188.43
+  },
+  {
+   "ticker": "NUWE",
+   "price": 4.45
+  },
+  {
+   "ticker": "OWL",
+   "price": 10.16
+  },
+  {
+   "ticker": "SEI",
+   "price": 51.28
+  },
+  {
+   "ticker": "TE",
+   "price": 4.27
+  },
+  {
+   "ticker": "WULF",
+   "price": 17.82
+  },
+  {
+   "ticker": "XRX",
+   "price": 3.49
+  }
+ ]
+}

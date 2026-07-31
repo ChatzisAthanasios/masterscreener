@@ -1,0 +1,85 @@
+{
+ "time": "16:00 ET (retroactive, fetched 2026-07-31)",
+ "rows": [
+  {
+   "ticker": "AIBZ",
+   "price": 6.68
+  },
+  {
+   "ticker": "BOOM",
+   "price": 6.26
+  },
+  {
+   "ticker": "BRUN",
+   "price": 19.85
+  },
+  {
+   "ticker": "CMCO",
+   "price": 20.68
+  },
+  {
+   "ticker": "DFNS",
+   "price": 84.98
+  },
+  {
+   "ticker": "EME",
+   "price": 802.37
+  },
+  {
+   "ticker": "FIX",
+   "price": 1697.84
+  },
+  {
+   "ticker": "HII",
+   "price": 319.9
+  },
+  {
+   "ticker": "HIPO",
+   "price": 31.88
+  },
+  {
+   "ticker": "IDCC",
+   "price": 303.33
+  },
+  {
+   "ticker": "MCS",
+   "price": 29.69
+  },
+  {
+   "ticker": "MKTX",
+   "price": 162.76
+  },
+  {
+   "ticker": "MYRG",
+   "price": 330.84
+  },
+  {
+   "ticker": "NEU",
+   "price": 867.02
+  },
+  {
+   "ticker": "NKLR",
+   "price": 5.23
+  },
+  {
+   "ticker": "NVMI",
+   "price": 394.07
+  },
+  {
+   "ticker": "PI",
+   "price": 147.49
+  },
+  {
+   "ticker": "PN",
+   "price": 23.67
+  },
+  {
+   "ticker": "QMCO",
+   "price": 11.24
+  },
+  {
+   "ticker": "QUAD",
+   "price": 9.88
+  }
+ ]
+}

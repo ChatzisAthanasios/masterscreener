@@ -1,0 +1,21 @@
+date,screener_id,ticker,company,entry_time,entry_price,exit_time,exit_price,return_pct,outcome
+2026-07-30,classic-swing,AACB,Artius II Acquisition Inc,10:34 ET,10.55,"16:00 ET (retroactive, fetched 2026-07-31)",10.53,-0.19,loss
+2026-07-30,classic-swing,AAMI,Acadian Asset Management Inc,10:34 ET,85.33,"16:00 ET (retroactive, fetched 2026-07-31)",83.95,-1.62,loss
+2026-07-30,classic-swing,AAPB,GraniteShares 2x Long AAPL Daily ETF,10:34 ET,43.83,"16:00 ET (retroactive, fetched 2026-07-31)",44.56,1.67,win
+2026-07-30,classic-swing,AAPL,Apple Inc,10:34 ET,330.8,"16:00 ET (retroactive, fetched 2026-07-31)",333.43,0.8,win
+2026-07-30,classic-swing,AAPU,Direxion Daily AAPL Bull 2X ETF,10:34 ET,45.08,"16:00 ET (retroactive, fetched 2026-07-31)",45.83,1.66,win
+2026-07-30,classic-swing,AAPX,T-Rex 2X Long Apple Daily Target ETF,10:34 ET,40.67,"16:00 ET (retroactive, fetched 2026-07-31)",41.34,1.65,win
+2026-07-30,classic-swing,AAPY,Kurv Yield Premium Strategy Apple ETF,10:34 ET,27.92,"16:00 ET (retroactive, fetched 2026-07-31)",27.95,0.11,win
+2026-07-30,classic-swing,ABEQ,Absolute Select Value ETF,10:34 ET,38.42,"16:00 ET (retroactive, fetched 2026-07-31)",38.43,0.03,win
+2026-07-30,classic-swing,ACVA,ACV Auctions Inc,10:34 ET,7.6,"16:00 ET (retroactive, fetched 2026-07-31)",8.03,5.66,win
+2026-07-30,classic-swing,ACWV,iShares MSCI Global Min Vol Factor ETF,10:34 ET,124.22,"16:00 ET (retroactive, fetched 2026-07-31)",124.89,0.54,win
+2026-07-30,classic-swing,ADAC,American Drive Acquisition Co,10:34 ET,10.08,"16:00 ET (retroactive, fetched 2026-07-31)",10.1,0.2,win
+2026-07-30,classic-swing,ALIS,Calisa Acquisition Corp,10:34 ET,10.17,"16:00 ET (retroactive, fetched 2026-07-31)",10.17,0.0,flat
+2026-07-30,classic-swing,ALUB,Alussa Energy Acquisition Corp II,10:34 ET,10.1,"16:00 ET (retroactive, fetched 2026-07-31)",,,unscored
+2026-07-30,classic-swing,AMAL,Amalgamated Financial Corp,10:34 ET,49.31,"16:00 ET (retroactive, fetched 2026-07-31)",49.39,0.16,win
+2026-07-30,classic-swing,AMBP,Ardagh Metal Packaging SA,10:34 ET,4.85,"16:00 ET (retroactive, fetched 2026-07-31)",4.85,0.0,flat
+2026-07-30,classic-swing,AMG,Affiliated Managers Group Inc,10:34 ET,368.23,"16:00 ET (retroactive, fetched 2026-07-31)",365.46,-0.75,loss
+2026-07-30,classic-swing,AMGN,AMGEN Inc,10:34 ET,379.04,"16:00 ET (retroactive, fetched 2026-07-31)",387.64,2.27,win
+2026-07-30,classic-swing,ANIK,Anika Therapeutics Inc,10:34 ET,17.44,"16:00 ET (retroactive, fetched 2026-07-31)",18.07,3.61,win
+2026-07-30,classic-swing,ANSC,Agriculture and Natural Solutions Acquisition Corp,10:34 ET,11.46,"16:00 ET (retroactive, fetched 2026-07-31)",11.47,0.09,win
+2026-07-30,classic-swing,ANTX,AN2 Therapeutics Inc,10:34 ET,5.22,"16:00 ET (retroactive, fetched 2026-07-31)",5.33,2.11,win

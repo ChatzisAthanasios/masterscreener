@@ -1,0 +1,10 @@
+date,screener_id,n_picks,n_scored,n_unscored,n_wins,n_losses,win_rate_pct,avg_return_pct,median_return_pct,best_ticker,best_return_pct,worst_ticker,worst_return_pct
+2026-07-30,classic-swing,20,19,1,14,3,73.7,0.95,0.2,ACVA,5.66,AAMI,-1.62
+2026-07-30,gap-up-momentum,20,20,0,13,7,65.0,4.07,2.17,PN,43.8,NKLR,-4.39
+2026-07-30,low-float,20,20,0,6,12,30.0,14.7,-1.31,CYCU,235.42,APUS,-28.49
+2026-07-30,most-volatile,20,20,0,16,3,80.0,2.02,2.02,ALOY,5.88,AMD,-2.46
+2026-07-30,penny-stock-momentum,20,19,1,11,8,57.9,20.71,1.12,CYCU,235.42,MGRX,-22.74
+2026-07-30,short-squeeze,15,15,0,7,7,46.7,8.4,0.0,GCTK,116.67,XRX,-5.68
+2026-07-30,top-gainers,20,20,0,10,10,50.0,1.68,1.33,PN,42.42,STKH,-28.54
+2026-07-30,top-losers,4,4,0,3,1,75.0,9.85,7.9,CAPR,34.29,RITR,-10.71
+2026-07-30,unusual-volume,20,20,0,10,7,50.0,-0.49,0.04,BOEG,1.55,BAX,-7.57

@@ -1,0 +1,21 @@
+date,screener_id,ticker,company,entry_time,entry_price,exit_time,exit_price,return_pct,outcome
+2026-07-30,gap-up-momentum,AIBZ,Bitzero Holdings Inc,10:31 ET,6.1,"16:00 ET (retroactive, fetched 2026-07-31)",6.68,9.51,win
+2026-07-30,gap-up-momentum,BOOM,DMC Global Inc,10:31 ET,6.51,"16:00 ET (retroactive, fetched 2026-07-31)",6.26,-3.84,loss
+2026-07-30,gap-up-momentum,BRUN,Boost Run Inc,10:31 ET,18.85,"16:00 ET (retroactive, fetched 2026-07-31)",19.85,5.31,win
+2026-07-30,gap-up-momentum,CMCO,Columbus Mckinnon Corp,10:31 ET,20.3,"16:00 ET (retroactive, fetched 2026-07-31)",20.68,1.87,win
+2026-07-30,gap-up-momentum,DFNS,T3 Defense Inc,10:31 ET,77.35,"16:00 ET (retroactive, fetched 2026-07-31)",84.98,9.86,win
+2026-07-30,gap-up-momentum,EME,Emcor Group Inc,10:31 ET,804.0,"16:00 ET (retroactive, fetched 2026-07-31)",802.37,-0.2,loss
+2026-07-30,gap-up-momentum,FIX,Comfort Systems USA Inc,10:31 ET,1695.69,"16:00 ET (retroactive, fetched 2026-07-31)",1697.84,0.13,win
+2026-07-30,gap-up-momentum,HII,Huntington Ingalls Industries Inc,10:31 ET,302.31,"16:00 ET (retroactive, fetched 2026-07-31)",319.9,5.82,win
+2026-07-30,gap-up-momentum,HIPO,Hippo Holdings Inc,10:31 ET,33.01,"16:00 ET (retroactive, fetched 2026-07-31)",31.88,-3.42,loss
+2026-07-30,gap-up-momentum,IDCC,Interdigital Inc,10:31 ET,292.81,"16:00 ET (retroactive, fetched 2026-07-31)",303.33,3.59,win
+2026-07-30,gap-up-momentum,MCS,Marcus Corp,10:31 ET,27.52,"16:00 ET (retroactive, fetched 2026-07-31)",29.69,7.89,win
+2026-07-30,gap-up-momentum,MKTX,MarketAxess Holdings Inc,10:31 ET,163.04,"16:00 ET (retroactive, fetched 2026-07-31)",162.76,-0.17,loss
+2026-07-30,gap-up-momentum,MYRG,MYR Group Inc,10:31 ET,344.61,"16:00 ET (retroactive, fetched 2026-07-31)",330.84,-4.0,loss
+2026-07-30,gap-up-momentum,NEU,NewMarket Corp,10:31 ET,858.04,"16:00 ET (retroactive, fetched 2026-07-31)",867.02,1.05,win
+2026-07-30,gap-up-momentum,NKLR,Terra Innovatum Global NV,10:31 ET,5.47,"16:00 ET (retroactive, fetched 2026-07-31)",5.23,-4.39,loss
+2026-07-30,gap-up-momentum,NVMI,Nova Ltd,10:31 ET,398.62,"16:00 ET (retroactive, fetched 2026-07-31)",394.07,-1.14,loss
+2026-07-30,gap-up-momentum,PI,Impinj Inc,10:31 ET,142.09,"16:00 ET (retroactive, fetched 2026-07-31)",147.49,3.8,win
+2026-07-30,gap-up-momentum,PN,PN Smart Energy Ltd,10:31 ET,16.46,"16:00 ET (retroactive, fetched 2026-07-31)",23.67,43.8,win
+2026-07-30,gap-up-momentum,QMCO,Quantum Corp,10:31 ET,10.97,"16:00 ET (retroactive, fetched 2026-07-31)",11.24,2.46,win
+2026-07-30,gap-up-momentum,QUAD,Quad/Graphics Inc,10:31 ET,9.54,"16:00 ET (retroactive, fetched 2026-07-31)",9.88,3.56,win

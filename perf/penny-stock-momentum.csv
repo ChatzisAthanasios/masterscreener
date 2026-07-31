@@ -1,0 +1,21 @@
+date,screener_id,ticker,company,entry_time,entry_price,exit_time,exit_price,return_pct,outcome
+2026-07-30,penny-stock-momentum,AAOG,Leverage Shares 2X Long AAOI Daily ETF,10:43 ET,2.11,"16:00 ET (retroactive, fetched 2026-07-31)",2.12,0.47,win
+2026-07-30,penny-stock-momentum,ARAY,Accuray Inc,10:43 ET,0.24,"16:00 ET (retroactive, fetched 2026-07-31)",0.285,18.75,win
+2026-07-30,penny-stock-momentum,AXTX,Tradr 2X Long AXTI Daily ETF,10:43 ET,4.33,"16:00 ET (retroactive, fetched 2026-07-31)",4.7,8.55,win
+2026-07-30,penny-stock-momentum,CAPR,Capricor Therapeutics Inc,10:43 ET,3.09,"16:00 ET (retroactive, fetched 2026-07-31)",4.19,35.6,win
+2026-07-30,penny-stock-momentum,CBRG,Leverage Shares 2X Long CBRS Daily ETF,10:43 ET,4.07,"16:00 ET (retroactive, fetched 2026-07-31)",,,unscored
+2026-07-30,penny-stock-momentum,CISS,C3is Inc,10:43 ET,0.13,"16:00 ET (retroactive, fetched 2026-07-31)",0.136,4.62,win
+2026-07-30,penny-stock-momentum,CRWU,T-REX 2X Long CRWV Daily Target ETF,10:43 ET,2.98,"16:00 ET (retroactive, fetched 2026-07-31)",2.94,-1.34,loss
+2026-07-30,penny-stock-momentum,CYCU,Cycurion Inc,10:43 ET,0.48,"16:00 ET (retroactive, fetched 2026-07-31)",1.61,235.42,win
+2026-07-30,penny-stock-momentum,DAMD,Defiance Daily Target 2X Short AMD ETF,10:43 ET,1.54,"16:00 ET (retroactive, fetched 2026-07-31)",1.67,8.44,win
+2026-07-30,penny-stock-momentum,DCX,Digital Currency X Technology Inc,10:43 ET,1.25,"16:00 ET (retroactive, fetched 2026-07-31)",1.24,-0.8,loss
+2026-07-30,penny-stock-momentum,DGNX,Diginex Ltd,10:43 ET,1.78,"16:00 ET (retroactive, fetched 2026-07-31)",1.8,1.12,win
+2026-07-30,penny-stock-momentum,GCTK,GlucoTrack Inc,10:43 ET,0.36,"16:00 ET (retroactive, fetched 2026-07-31)",0.78,116.67,win
+2026-07-30,penny-stock-momentum,GMEX,GMEX Robotics Corp,10:43 ET,1.5,"16:00 ET (retroactive, fetched 2026-07-31)",1.46,-2.67,loss
+2026-07-30,penny-stock-momentum,GVH,Globavend Holdings Ltd,10:43 ET,1.12,"16:00 ET (retroactive, fetched 2026-07-31)",1.02,-8.93,loss
+2026-07-30,penny-stock-momentum,INO,Inovio Pharmaceuticals Inc,10:43 ET,0.59,"16:00 ET (retroactive, fetched 2026-07-31)",0.656,11.19,win
+2026-07-30,penny-stock-momentum,INVZ,Innoviz Technologies Ltd,10:43 ET,0.43,"16:00 ET (retroactive, fetched 2026-07-31)",0.4212,-2.05,loss
+2026-07-30,penny-stock-momentum,LBGJ,Li Bang International Corp Inc,10:43 ET,0.02,"16:00 ET (retroactive, fetched 2026-07-31)",0.018,-10.0,loss
+2026-07-30,penny-stock-momentum,LUNG,Pulmonx Corp,10:43 ET,1.73,"16:00 ET (retroactive, fetched 2026-07-31)",1.61,-6.94,loss
+2026-07-30,penny-stock-momentum,MDXG,Mimedx Group Inc,10:43 ET,3.95,"16:00 ET (retroactive, fetched 2026-07-31)",4.27,8.1,win
+2026-07-30,penny-stock-momentum,MGRX,Mangoceuticals Inc,10:43 ET,0.38,"16:00 ET (retroactive, fetched 2026-07-31)",0.2936,-22.74,loss

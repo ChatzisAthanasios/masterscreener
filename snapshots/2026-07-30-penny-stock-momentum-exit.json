@@ -1,0 +1,81 @@
+{
+ "time": "16:00 ET (retroactive, fetched 2026-07-31)",
+ "rows": [
+  {
+   "ticker": "AAOG",
+   "price": 2.12
+  },
+  {
+   "ticker": "ARAY",
+   "price": 0.285
+  },
+  {
+   "ticker": "AXTX",
+   "price": 4.7
+  },
+  {
+   "ticker": "CAPR",
+   "price": 4.19
+  },
+  {
+   "ticker": "CISS",
+   "price": 0.136
+  },
+  {
+   "ticker": "CRWU",
+   "price": 2.94
+  },
+  {
+   "ticker": "CYCU",
+   "price": 1.61
+  },
+  {
+   "ticker": "DAMD",
+   "price": 1.67
+  },
+  {
+   "ticker": "DCX",
+   "price": 1.24
+  },
+  {
+   "ticker": "DGNX",
+   "price": 1.8
+  },
+  {
+   "ticker": "GCTK",
+   "price": 0.78
+  },
+  {
+   "ticker": "GMEX",
+   "price": 1.46
+  },
+  {
+   "ticker": "GVH",
+   "price": 1.02
+  },
+  {
+   "ticker": "INO",
+   "price": 0.656
+  },
+  {
+   "ticker": "INVZ",
+   "price": 0.4212
+  },
+  {
+   "ticker": "LBGJ",
+   "price": 0.018
+  },
+  {
+   "ticker": "LUNG",
+   "price": 1.61
+  },
+  {
+   "ticker": "MDXG",
+   "price": 4.27
+  },
+  {
+   "ticker": "MGRX",
+   "price": 0.2936
+  }
+ ]
+}

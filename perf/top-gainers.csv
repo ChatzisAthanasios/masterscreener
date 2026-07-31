@@ -1,0 +1,21 @@
+date,screener_id,ticker,company,entry_time,entry_price,exit_time,exit_price,return_pct,outcome
+2026-07-30,top-gainers,NUWE,Nuwellis Inc,10:37 ET,4.1,"16:00 ET (retroactive, fetched 2026-07-31)",4.45,8.54,win
+2026-07-30,top-gainers,NBIL,GraniteShares 2x Long NBIS Daily ETF,10:37 ET,21.75,"16:00 ET (retroactive, fetched 2026-07-31)",20.47,-5.89,loss
+2026-07-30,top-gainers,NEBX,Tradr 2X Long NBIS Daily ETF,10:37 ET,22.45,"16:00 ET (retroactive, fetched 2026-07-31)",21.28,-5.21,loss
+2026-07-30,top-gainers,NBIG,Leverage Shares 2X Long NBIS Daily ETF,10:37 ET,15.05,"16:00 ET (retroactive, fetched 2026-07-31)",14.3,-4.98,loss
+2026-07-30,top-gainers,BEX,Tradr 2X Long BE Daily ETF,10:37 ET,24.22,"16:00 ET (retroactive, fetched 2026-07-31)",23.02,-4.95,loss
+2026-07-30,top-gainers,BEG,Leverage Shares 2x Long BE Daily ETF,10:37 ET,33.88,"16:00 ET (retroactive, fetched 2026-07-31)",32.24,-4.84,loss
+2026-07-30,top-gainers,PN,PN Smart Energy Ltd,10:37 ET,16.62,"16:00 ET (retroactive, fetched 2026-07-31)",23.67,42.42,win
+2026-07-30,top-gainers,IREX,Tradr 2X Long IREN Daily ETF,10:37 ET,12.87,"16:00 ET (retroactive, fetched 2026-07-31)",13.4,4.12,win
+2026-07-30,top-gainers,DFNS,T3 Defense Inc,10:37 ET,77.39,"16:00 ET (retroactive, fetched 2026-07-31)",84.98,9.81,win
+2026-07-30,top-gainers,IRE,Defiance Daily Target 2X Long IREN ETF,10:37 ET,9.08,"16:00 ET (retroactive, fetched 2026-07-31)",9.42,3.74,win
+2026-07-30,top-gainers,IREG,Leverage Shares 2X Long IREN Daily ETF,10:37 ET,7.24,"16:00 ET (retroactive, fetched 2026-07-31)",7.55,4.28,win
+2026-07-30,top-gainers,SNDU,T-REX 2X Long SNDK Daily Target ETF,10:37 ET,15.76,"16:00 ET (retroactive, fetched 2026-07-31)",16.4,4.06,win
+2026-07-30,top-gainers,STKH,Steakholder Foods Ltd ADR,10:37 ET,3.96,"16:00 ET (retroactive, fetched 2026-07-31)",2.83,-28.54,loss
+2026-07-30,top-gainers,SNDG,Leverage Shares 2X Long SNDK Daily ETF,10:37 ET,6.24,"16:00 ET (retroactive, fetched 2026-07-31)",6.43,3.04,win
+2026-07-30,top-gainers,CWVX,Tradr 2X Long CRWV Daily ETF,10:37 ET,12.94,"16:00 ET (retroactive, fetched 2026-07-31)",12.71,-1.78,loss
+2026-07-30,top-gainers,AXTX,Tradr 2X Long AXTI Daily ETF,10:37 ET,4.37,"16:00 ET (retroactive, fetched 2026-07-31)",4.7,7.55,win
+2026-07-30,top-gainers,SNXX,Tradr 2X Long SNDK Daily ETF,10:37 ET,10.01,"16:00 ET (retroactive, fetched 2026-07-31)",10.48,4.7,win
+2026-07-30,top-gainers,CRWU,T-REX 2X Long CRWV Daily Target ETF,10:37 ET,2.97,"16:00 ET (retroactive, fetched 2026-07-31)",2.94,-1.01,loss
+2026-07-30,top-gainers,CRWG,Leverage Shares 2X Long CRWV Daily ETF,10:37 ET,15.55,"16:00 ET (retroactive, fetched 2026-07-31)",15.38,-1.09,loss
+2026-07-30,top-gainers,APLX,Tradr 2X Long APLD Daily ETF,10:37 ET,10.24,"16:00 ET (retroactive, fetched 2026-07-31)",10.2,-0.39,loss

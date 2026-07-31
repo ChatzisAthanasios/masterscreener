@@ -1,0 +1,85 @@
+{
+ "time": "16:00 ET (retroactive, fetched 2026-07-31)",
+ "rows": [
+  {
+   "ticker": "ACV",
+   "price": 26.65
+  },
+  {
+   "ticker": "ADXN",
+   "price": 5.6
+  },
+  {
+   "ticker": "APAC",
+   "price": 10.19
+  },
+  {
+   "ticker": "APUS",
+   "price": 4.92
+  },
+  {
+   "ticker": "BOOM",
+   "price": 6.26
+  },
+  {
+   "ticker": "BSVN",
+   "price": 50.0
+  },
+  {
+   "ticker": "CCEL",
+   "price": 3.36
+  },
+  {
+   "ticker": "CEPO",
+   "price": 10.67
+  },
+  {
+   "ticker": "CGO",
+   "price": 12.64
+  },
+  {
+   "ticker": "CYCU",
+   "price": 1.61
+  },
+  {
+   "ticker": "CZFS",
+   "price": 76.38
+  },
+  {
+   "ticker": "DCX",
+   "price": 1.24
+  },
+  {
+   "ticker": "DFNS",
+   "price": 84.98
+  },
+  {
+   "ticker": "DGNX",
+   "price": 1.8
+  },
+  {
+   "ticker": "DMA",
+   "price": 7.54
+  },
+  {
+   "ticker": "FIEE",
+   "price": 3.04
+  },
+  {
+   "ticker": "GCTK",
+   "price": 0.78
+  },
+  {
+   "ticker": "GNLN",
+   "price": 1.77
+  },
+  {
+   "ticker": "GVH",
+   "price": 1.02
+  },
+  {
+   "ticker": "HIFS",
+   "price": 282.98
+  }
+ ]
+}
