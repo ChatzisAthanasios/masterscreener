@@ -1,0 +1,15 @@
+{
+ "time": "10:30 ET",
+ "rows": [
+  {
+   "ticker": "KPTI",
+   "company": "Karyopharm Therapeutics",
+   "price": 2.35
+  },
+  {
+   "ticker": "RITR",
+   "company": "Reitar Logtech Holdings",
+   "price": 0.0466
+  }
+ ]
+}

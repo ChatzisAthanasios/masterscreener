@@ -1,0 +1,15 @@
+{
+ "time": "10:30 ET",
+ "rows": [
+  {
+   "ticker": "REPL",
+   "company": "Replimune Group Inc",
+   "price": 9.5
+  },
+  {
+   "ticker": "KUST",
+   "company": "Kustom Entertainment",
+   "price": 1.36
+  }
+ ]
+}

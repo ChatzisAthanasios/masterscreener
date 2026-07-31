@@ -1,0 +1,85 @@
+{
+ "time": "10:30 ET",
+ "rows": [
+  {
+   "ticker": "WETO",
+   "company": "Wetour Robotics Limited",
+   "price": 0.13
+  },
+  {
+   "ticker": "MGRX",
+   "company": "Mangoceuticals Inc",
+   "price": 1.05
+  },
+  {
+   "ticker": "CIGL",
+   "company": "Concorde International Group",
+   "price": 0.979
+  },
+  {
+   "ticker": "ZBAO",
+   "company": "Zhibao Technology Inc",
+   "price": 0.25
+  },
+  {
+   "ticker": "LBGJ",
+   "company": "Li Bang International Corp",
+   "price": 0.0242
+  },
+  {
+   "ticker": "RYDE",
+   "company": "Ryde Group Ltd",
+   "price": 0.72
+  },
+  {
+   "ticker": "ONFO",
+   "company": "Onfolio Holdings Inc",
+   "price": 0.106
+  },
+  {
+   "ticker": "KPTI",
+   "company": "Karyopharm Therapeutics",
+   "price": 2.35
+  },
+  {
+   "ticker": "MBRX",
+   "company": "Moleculin Biotech Inc",
+   "price": 0.489
+  },
+  {
+   "ticker": "CYCU",
+   "company": "Cycurion Inc",
+   "price": 1.03
+  },
+  {
+   "ticker": "RITR",
+   "company": "Reitar Logtech Holdings",
+   "price": 0.0466
+  },
+  {
+   "ticker": "YYAI",
+   "company": "AiRWA Inc",
+   "price": 0.129
+  },
+  {
+   "ticker": "KWM",
+   "company": "K Wave Media",
+   "price": 0.0715
+  },
+  {
+   "ticker": "VSEE",
+   "company": "VSee Health Inc",
+   "price": 0.0694
+  },
+  {
+   "ticker": "MGN",
+   "company": "Mind Medicine (MGN)",
+   "price": 0.063
+  },
+  {
+   "ticker": "KUST",
+   "company": "Kustom Entertainment",
+   "price": 1.36
+  }
+ ]
+}
