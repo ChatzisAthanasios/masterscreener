@@ -3,3 +3,5 @@ date,screener_id,ticker,company,entry_time,entry_price,exit_time,exit_price,retu
 2026-07-30,top-losers,CISS,C3is Inc,10:48 ET,0.13,"16:00 ET (retroactive, fetched 2026-07-31)",0.136,4.62,win
 2026-07-30,top-losers,INO,Inovio Pharmaceuticals Inc,10:48 ET,0.59,"16:00 ET (retroactive, fetched 2026-07-31)",0.656,11.19,win
 2026-07-30,top-losers,RITR,Reitar Logtech Holdings Ltd,10:48 ET,0.07,"16:00 ET (retroactive, fetched 2026-07-31)",0.0625,-10.71,loss
+2026-07-31,top-losers,KPTI,Karyopharm Therapeutics,10:30 ET,2.35,16:00 ET,1.92,-18.3,loss
+2026-07-31,top-losers,RITR,Reitar Logtech Holdings,10:30 ET,0.0466,16:00 ET,0.0565,21.24,win

@@ -1,0 +1,20 @@
+{
+ "time": "16:00 ET",
+ "rows": [
+  {
+   "ticker": "FCUV",
+   "company": "Focus Universal Inc",
+   "price": 11.6
+  },
+  {
+   "ticker": "MGRX",
+   "company": "Mangoceuticals Inc",
+   "price": 0.56
+  },
+  {
+   "ticker": "CIGL",
+   "company": "Concorde International Group",
+   "price": 0.61
+  }
+ ]
+}

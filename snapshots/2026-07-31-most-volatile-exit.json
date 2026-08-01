@@ -1,0 +1,130 @@
+{
+ "time": "16:00 ET",
+ "rows": [
+  {
+   "ticker": "FCUV",
+   "company": "Focus Universal Inc",
+   "price": 11.6
+  },
+  {
+   "ticker": "WETO",
+   "company": "Wetour Robotics Limited",
+   "price": 0.09
+  },
+  {
+   "ticker": "MGRX",
+   "company": "Mangoceuticals Inc",
+   "price": 0.56
+  },
+  {
+   "ticker": "CIGL",
+   "company": "Concorde International Group",
+   "price": 0.61
+  },
+  {
+   "ticker": "REPL",
+   "company": "Replimune Group Inc",
+   "price": 11.2
+  },
+  {
+   "ticker": "ZBAO",
+   "company": "Zhibao Technology Inc",
+   "price": 0.2001
+  },
+  {
+   "ticker": "TGHL",
+   "company": "The Growhub Limited",
+   "price": 1.13
+  },
+  {
+   "ticker": "LBGJ",
+   "company": "Li Bang International Corp",
+   "price": 0.0187
+  },
+  {
+   "ticker": "RYDE",
+   "company": "Ryde Group Ltd",
+   "price": 0.75
+  },
+  {
+   "ticker": "AXTI",
+   "company": "AXT Inc",
+   "price": 60.43
+  },
+  {
+   "ticker": "ONFO",
+   "company": "Onfolio Holdings Inc",
+   "price": 0.079
+  },
+  {
+   "ticker": "NWL",
+   "company": "Newell Brands Inc",
+   "price": 5.6
+  },
+  {
+   "ticker": "SKYQ",
+   "company": "Sky Quarry Inc",
+   "price": 4.65
+  },
+  {
+   "ticker": "KPTI",
+   "company": "Karyopharm Therapeutics",
+   "price": 1.92
+  },
+  {
+   "ticker": "BIOA",
+   "company": "BioAge Labs Inc",
+   "price": 9.04
+  },
+  {
+   "ticker": "NUWE",
+   "company": "Nuwellis Inc",
+   "price": 1.74
+  },
+  {
+   "ticker": "DFNS",
+   "company": "T3 Defense Inc",
+   "price": 27.68
+  },
+  {
+   "ticker": "MBRX",
+   "company": "Moleculin Biotech Inc",
+   "price": 0.4
+  },
+  {
+   "ticker": "MYGN",
+   "company": "Myriad Genetics Inc",
+   "price": 2.86
+  },
+  {
+   "ticker": "CYCU",
+   "company": "Cycurion Inc",
+   "price": 0.89
+  },
+  {
+   "ticker": "GLUE",
+   "company": "Monte Rosa Therapeutics",
+   "price": 16.52
+  },
+  {
+   "ticker": "RBLX",
+   "company": "Roblox Corp",
+   "price": 35.6
+  },
+  {
+   "ticker": "GCTK",
+   "company": "GlucoTrack Inc",
+   "price": 0.477
+  },
+  {
+   "ticker": "VCYT",
+   "company": "Veracyte Inc",
+   "price": 46.32
+  },
+  {
+   "ticker": "CERS",
+   "company": "Cerus Corp",
+   "price": 2.15
+  }
+ ]
+}

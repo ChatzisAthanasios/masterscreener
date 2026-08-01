@@ -19,3 +19,19 @@ date,screener_id,ticker,company,entry_time,entry_price,exit_time,exit_price,retu
 2026-07-30,penny-stock-momentum,LUNG,Pulmonx Corp,10:43 ET,1.73,"16:00 ET (retroactive, fetched 2026-07-31)",1.61,-6.94,loss
 2026-07-30,penny-stock-momentum,MDXG,Mimedx Group Inc,10:43 ET,3.95,"16:00 ET (retroactive, fetched 2026-07-31)",4.27,8.1,win
 2026-07-30,penny-stock-momentum,MGRX,Mangoceuticals Inc,10:43 ET,0.38,"16:00 ET (retroactive, fetched 2026-07-31)",0.2936,-22.74,loss
+2026-07-31,penny-stock-momentum,WETO,Wetour Robotics Limited,10:30 ET,0.13,16:00 ET,0.09,-30.77,loss
+2026-07-31,penny-stock-momentum,MGRX,Mangoceuticals Inc,10:30 ET,1.05,16:00 ET,0.56,-46.67,loss
+2026-07-31,penny-stock-momentum,CIGL,Concorde International Group,10:30 ET,0.979,16:00 ET,0.61,-37.69,loss
+2026-07-31,penny-stock-momentum,ZBAO,Zhibao Technology Inc,10:30 ET,0.25,16:00 ET,0.2001,-19.96,loss
+2026-07-31,penny-stock-momentum,LBGJ,Li Bang International Corp,10:30 ET,0.0242,16:00 ET,0.0187,-22.73,loss
+2026-07-31,penny-stock-momentum,RYDE,Ryde Group Ltd,10:30 ET,0.72,16:00 ET,0.75,4.17,win
+2026-07-31,penny-stock-momentum,ONFO,Onfolio Holdings Inc,10:30 ET,0.106,16:00 ET,0.079,-25.47,loss
+2026-07-31,penny-stock-momentum,KPTI,Karyopharm Therapeutics,10:30 ET,2.35,16:00 ET,1.92,-18.3,loss
+2026-07-31,penny-stock-momentum,MBRX,Moleculin Biotech Inc,10:30 ET,0.489,16:00 ET,0.4,-18.2,loss
+2026-07-31,penny-stock-momentum,CYCU,Cycurion Inc,10:30 ET,1.03,16:00 ET,0.89,-13.59,loss
+2026-07-31,penny-stock-momentum,RITR,Reitar Logtech Holdings,10:30 ET,0.0466,16:00 ET,0.0565,21.24,win
+2026-07-31,penny-stock-momentum,YYAI,AiRWA Inc,10:30 ET,0.129,16:00 ET,0.12,-6.98,loss
+2026-07-31,penny-stock-momentum,KWM,K Wave Media,10:30 ET,0.0715,16:00 ET,0.0837,17.06,win
+2026-07-31,penny-stock-momentum,VSEE,VSee Health Inc,10:30 ET,0.0694,16:00 ET,0.0787,13.4,win
+2026-07-31,penny-stock-momentum,MGN,Mind Medicine (MGN),10:30 ET,0.063,16:00 ET,0.0736,16.83,win
+2026-07-31,penny-stock-momentum,KUST,Kustom Entertainment,10:30 ET,1.36,16:00 ET,1.24,-8.82,loss

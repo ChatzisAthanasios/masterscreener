@@ -19,3 +19,10 @@ date,screener_id,ticker,company,entry_time,entry_price,exit_time,exit_price,retu
 2026-07-30,low-float,GNLN,Greenlane Holdings Inc,10:46 ET,1.71,"16:00 ET (retroactive, fetched 2026-07-31)",1.77,3.51,win
 2026-07-30,low-float,GVH,Globavend Holdings Ltd,10:46 ET,1.11,"16:00 ET (retroactive, fetched 2026-07-31)",1.02,-8.11,loss
 2026-07-30,low-float,HIFS,Hingham Institution For Savings,10:46 ET,287.09,"16:00 ET (retroactive, fetched 2026-07-31)",282.98,-1.43,loss
+2026-07-31,low-float,FCUV,Focus Universal Inc,10:30 ET,11.16,16:00 ET,11.6,3.94,win
+2026-07-31,low-float,MGRX,Mangoceuticals Inc,10:30 ET,1.05,16:00 ET,0.56,-46.67,loss
+2026-07-31,low-float,ZBAO,Zhibao Technology Inc,10:30 ET,0.25,16:00 ET,0.2001,-19.96,loss
+2026-07-31,low-float,LNKS,Linkers Industries Limited,10:30 ET,1.46,16:00 ET,1.08,-26.03,loss
+2026-07-31,low-float,LBGJ,Li Bang International Corp,10:30 ET,0.0242,16:00 ET,0.0187,-22.73,loss
+2026-07-31,low-float,ONFO,Onfolio Holdings Inc,10:30 ET,0.106,16:00 ET,0.079,-25.47,loss
+2026-07-31,low-float,KUST,Kustom Entertainment,10:30 ET,1.36,16:00 ET,1.24,-8.82,loss

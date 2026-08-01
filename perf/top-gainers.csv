@@ -19,3 +19,13 @@ date,screener_id,ticker,company,entry_time,entry_price,exit_time,exit_price,retu
 2026-07-30,top-gainers,CRWU,T-REX 2X Long CRWV Daily Target ETF,10:37 ET,2.97,"16:00 ET (retroactive, fetched 2026-07-31)",2.94,-1.01,loss
 2026-07-30,top-gainers,CRWG,Leverage Shares 2X Long CRWV Daily ETF,10:37 ET,15.55,"16:00 ET (retroactive, fetched 2026-07-31)",15.38,-1.09,loss
 2026-07-30,top-gainers,APLX,Tradr 2X Long APLD Daily ETF,10:37 ET,10.24,"16:00 ET (retroactive, fetched 2026-07-31)",10.2,-0.39,loss
+2026-07-31,top-gainers,FCUV,Focus Universal Inc,10:30 ET,11.16,16:00 ET,11.6,3.94,win
+2026-07-31,top-gainers,REPL,Replimune Group Inc,10:30 ET,9.5,16:00 ET,11.2,17.89,win
+2026-07-31,top-gainers,AXTI,AXT Inc,10:30 ET,59.64,16:00 ET,60.43,1.32,win
+2026-07-31,top-gainers,NWL,Newell Brands Inc,10:30 ET,6.19,16:00 ET,5.6,-9.53,loss
+2026-07-31,top-gainers,AMCX,AMC Global Media Inc,10:30 ET,11.3,16:00 ET,11.2,-0.88,loss
+2026-07-31,top-gainers,SKYQ,Sky Quarry Inc,10:30 ET,4.94,16:00 ET,4.65,-5.87,loss
+2026-07-31,top-gainers,AMZN,Amazon.com Inc,10:30 ET,268.52,16:00 ET,271.58,1.14,win
+2026-07-31,top-gainers,INTC,Intel Corp,10:30 ET,92.89,16:00 ET,90.2,-2.9,loss
+2026-07-31,top-gainers,NVDA,NVIDIA Corp,10:30 ET,196.7,16:00 ET,200.75,2.06,win
+2026-07-31,top-gainers,NOK,Nokia Corp,10:30 ET,9.11,16:00 ET,9.14,0.33,win

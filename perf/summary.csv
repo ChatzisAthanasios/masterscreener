@@ -8,3 +8,11 @@ date,screener_id,n_picks,n_scored,n_unscored,n_wins,n_losses,win_rate_pct,avg_re
 2026-07-30,top-gainers,20,20,0,10,10,50.0,1.68,1.33,PN,42.42,STKH,-28.54
 2026-07-30,top-losers,4,4,0,3,1,75.0,9.85,7.9,CAPR,34.29,RITR,-10.71
 2026-07-30,unusual-volume,20,20,0,10,7,50.0,-0.49,0.04,BOEG,1.55,BAX,-7.57
+2026-07-31,gap-up-momentum,1,1,0,1,0,100.0,3.94,3.94,FCUV,3.94,FCUV,3.94
+2026-07-31,low-float,7,7,0,1,6,14.3,-20.82,-22.73,FCUV,3.94,MGRX,-46.67
+2026-07-31,most-volatile,25,25,0,9,16,36.0,-10.63,-10.14,REPL,17.89,MGRX,-46.67
+2026-07-31,penny-stock-momentum,16,16,0,5,11,31.2,-11.03,-15.9,RITR,21.24,MGRX,-46.67
+2026-07-31,short-squeeze,2,2,0,1,1,50.0,4.54,4.54,REPL,17.89,KUST,-8.82
+2026-07-31,top-gainers,10,10,0,6,4,60.0,0.75,0.73,REPL,17.89,NWL,-9.53
+2026-07-31,top-losers,2,2,0,1,1,50.0,1.47,1.47,RITR,21.24,KPTI,-18.3
+2026-07-31,unusual-volume,3,3,0,1,2,33.3,-26.81,-37.69,FCUV,3.94,MGRX,-46.67

@@ -19,3 +19,28 @@ date,screener_id,ticker,company,entry_time,entry_price,exit_time,exit_price,retu
 2026-07-30,most-volatile,AMAT,Applied Materials Inc,10:52 ET,507.39,"16:00 ET (retroactive, fetched 2026-07-31)",501.77,-1.11,loss
 2026-07-30,most-volatile,AMC,AMC Entertainment Holdings Inc,10:52 ET,2.69,"16:00 ET (retroactive, fetched 2026-07-31)",2.77,2.97,win
 2026-07-30,most-volatile,AMD,Advanced Micro Devices Inc,10:52 ET,497.63,"16:00 ET (retroactive, fetched 2026-07-31)",485.39,-2.46,loss
+2026-07-31,most-volatile,FCUV,Focus Universal Inc,10:30 ET,11.16,16:00 ET,11.6,3.94,win
+2026-07-31,most-volatile,WETO,Wetour Robotics Limited,10:30 ET,0.13,16:00 ET,0.09,-30.77,loss
+2026-07-31,most-volatile,MGRX,Mangoceuticals Inc,10:30 ET,1.05,16:00 ET,0.56,-46.67,loss
+2026-07-31,most-volatile,CIGL,Concorde International Group,10:30 ET,0.979,16:00 ET,0.61,-37.69,loss
+2026-07-31,most-volatile,REPL,Replimune Group Inc,10:30 ET,9.5,16:00 ET,11.2,17.89,win
+2026-07-31,most-volatile,ZBAO,Zhibao Technology Inc,10:30 ET,0.25,16:00 ET,0.2001,-19.96,loss
+2026-07-31,most-volatile,TGHL,The Growhub Limited,10:30 ET,1.04,16:00 ET,1.13,8.65,win
+2026-07-31,most-volatile,LBGJ,Li Bang International Corp,10:30 ET,0.0242,16:00 ET,0.0187,-22.73,loss
+2026-07-31,most-volatile,RYDE,Ryde Group Ltd,10:30 ET,0.72,16:00 ET,0.75,4.17,win
+2026-07-31,most-volatile,AXTI,AXT Inc,10:30 ET,59.64,16:00 ET,60.43,1.32,win
+2026-07-31,most-volatile,ONFO,Onfolio Holdings Inc,10:30 ET,0.106,16:00 ET,0.079,-25.47,loss
+2026-07-31,most-volatile,NWL,Newell Brands Inc,10:30 ET,6.19,16:00 ET,5.6,-9.53,loss
+2026-07-31,most-volatile,SKYQ,Sky Quarry Inc,10:30 ET,4.94,16:00 ET,4.65,-5.87,loss
+2026-07-31,most-volatile,KPTI,Karyopharm Therapeutics,10:30 ET,2.35,16:00 ET,1.92,-18.3,loss
+2026-07-31,most-volatile,BIOA,BioAge Labs Inc,10:30 ET,10.06,16:00 ET,9.04,-10.14,loss
+2026-07-31,most-volatile,NUWE,Nuwellis Inc,10:30 ET,1.83,16:00 ET,1.74,-4.92,loss
+2026-07-31,most-volatile,DFNS,T3 Defense Inc,10:30 ET,38.0,16:00 ET,27.68,-27.16,loss
+2026-07-31,most-volatile,MBRX,Moleculin Biotech Inc,10:30 ET,0.489,16:00 ET,0.4,-18.2,loss
+2026-07-31,most-volatile,MYGN,Myriad Genetics Inc,10:30 ET,3.21,16:00 ET,2.86,-10.9,loss
+2026-07-31,most-volatile,CYCU,Cycurion Inc,10:30 ET,1.03,16:00 ET,0.89,-13.59,loss
+2026-07-31,most-volatile,GLUE,Monte Rosa Therapeutics,10:30 ET,15.43,16:00 ET,16.52,7.06,win
+2026-07-31,most-volatile,RBLX,Roblox Corp,10:30 ET,34.52,16:00 ET,35.6,3.13,win
+2026-07-31,most-volatile,GCTK,GlucoTrack Inc,10:30 ET,0.566,16:00 ET,0.477,-15.72,loss
+2026-07-31,most-volatile,VCYT,Veracyte Inc,10:30 ET,44.0,16:00 ET,46.32,5.27,win
+2026-07-31,most-volatile,CERS,Cerus Corp,10:30 ET,2.14,16:00 ET,2.15,0.47,win

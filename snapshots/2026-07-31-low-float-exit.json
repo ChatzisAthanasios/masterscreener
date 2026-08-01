@@ -1,0 +1,40 @@
+{
+ "time": "16:00 ET",
+ "rows": [
+  {
+   "ticker": "FCUV",
+   "company": "Focus Universal Inc",
+   "price": 11.6
+  },
+  {
+   "ticker": "MGRX",
+   "company": "Mangoceuticals Inc",
+   "price": 0.56
+  },
+  {
+   "ticker": "ZBAO",
+   "company": "Zhibao Technology Inc",
+   "price": 0.2001
+  },
+  {
+   "ticker": "LNKS",
+   "company": "Linkers Industries Limited",
+   "price": 1.08
+  },
+  {
+   "ticker": "LBGJ",
+   "company": "Li Bang International Corp",
+   "price": 0.0187
+  },
+  {
+   "ticker": "ONFO",
+   "company": "Onfolio Holdings Inc",
+   "price": 0.079
+  },
+  {
+   "ticker": "KUST",
+   "company": "Kustom Entertainment",
+   "price": 1.24
+  }
+ ]
+}

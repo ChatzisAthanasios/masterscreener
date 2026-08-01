@@ -1,0 +1,55 @@
+{
+ "time": "16:00 ET",
+ "rows": [
+  {
+   "ticker": "FCUV",
+   "company": "Focus Universal Inc",
+   "price": 11.6
+  },
+  {
+   "ticker": "REPL",
+   "company": "Replimune Group Inc",
+   "price": 11.2
+  },
+  {
+   "ticker": "AXTI",
+   "company": "AXT Inc",
+   "price": 60.43
+  },
+  {
+   "ticker": "NWL",
+   "company": "Newell Brands Inc",
+   "price": 5.6
+  },
+  {
+   "ticker": "AMCX",
+   "company": "AMC Global Media Inc",
+   "price": 11.2
+  },
+  {
+   "ticker": "SKYQ",
+   "company": "Sky Quarry Inc",
+   "price": 4.65
+  },
+  {
+   "ticker": "AMZN",
+   "company": "Amazon.com Inc",
+   "price": 271.58
+  },
+  {
+   "ticker": "INTC",
+   "company": "Intel Corp",
+   "price": 90.2
+  },
+  {
+   "ticker": "NVDA",
+   "company": "NVIDIA Corp",
+   "price": 200.75
+  },
+  {
+   "ticker": "NOK",
+   "company": "Nokia Corp",
+   "price": 9.14
+  }
+ ]
+}

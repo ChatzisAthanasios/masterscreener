@@ -19,3 +19,4 @@ date,screener_id,ticker,company,entry_time,entry_price,exit_time,exit_price,retu
 2026-07-30,gap-up-momentum,PN,PN Smart Energy Ltd,10:31 ET,16.46,"16:00 ET (retroactive, fetched 2026-07-31)",23.67,43.8,win
 2026-07-30,gap-up-momentum,QMCO,Quantum Corp,10:31 ET,10.97,"16:00 ET (retroactive, fetched 2026-07-31)",11.24,2.46,win
 2026-07-30,gap-up-momentum,QUAD,Quad/Graphics Inc,10:31 ET,9.54,"16:00 ET (retroactive, fetched 2026-07-31)",9.88,3.56,win
+2026-07-31,gap-up-momentum,FCUV,Focus Universal Inc,10:30 ET,11.16,16:00 ET,11.6,3.94,win

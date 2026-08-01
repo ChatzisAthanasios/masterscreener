@@ -14,3 +14,5 @@ date,screener_id,ticker,company,entry_time,entry_price,exit_time,exit_price,retu
 2026-07-30,short-squeeze,TE,T1 Energy Inc,10:50 ET,4.33,"16:00 ET (retroactive, fetched 2026-07-31)",4.27,-1.39,loss
 2026-07-30,short-squeeze,WULF,TeraWulf Inc,10:50 ET,17.88,"16:00 ET (retroactive, fetched 2026-07-31)",17.82,-0.34,loss
 2026-07-30,short-squeeze,XRX,Xerox Holdings Corp,10:50 ET,3.7,"16:00 ET (retroactive, fetched 2026-07-31)",3.49,-5.68,loss
+2026-07-31,short-squeeze,REPL,Replimune Group Inc,10:30 ET,9.5,16:00 ET,11.2,17.89,win
+2026-07-31,short-squeeze,KUST,Kustom Entertainment,10:30 ET,1.36,16:00 ET,1.24,-8.82,loss

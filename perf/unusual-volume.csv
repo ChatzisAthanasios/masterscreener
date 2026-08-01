@@ -19,3 +19,6 @@ date,screener_id,ticker,company,entry_time,entry_price,exit_time,exit_price,retu
 2026-07-30,unusual-volume,BMSI,BNY Mellon Multi-Sector Income ETF,10:40 ET,25.1,"16:00 ET (retroactive, fetched 2026-07-31)",25.14,0.16,win
 2026-07-30,unusual-volume,BOEG,Leverage Shares 2X Long BA Daily ETF,10:40 ET,13.55,"16:00 ET (retroactive, fetched 2026-07-31)",13.76,1.55,win
 2026-07-30,unusual-volume,BOOM,DMC Global Inc,10:40 ET,6.56,"16:00 ET (retroactive, fetched 2026-07-31)",6.26,-4.57,loss
+2026-07-31,unusual-volume,FCUV,Focus Universal Inc,10:30 ET,11.16,16:00 ET,11.6,3.94,win
+2026-07-31,unusual-volume,MGRX,Mangoceuticals Inc,10:30 ET,1.05,16:00 ET,0.56,-46.67,loss
+2026-07-31,unusual-volume,CIGL,Concorde International Group,10:30 ET,0.979,16:00 ET,0.61,-37.69,loss
